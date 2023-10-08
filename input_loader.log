@@ -1,0 +1,9 @@
+[2023-10-08 20:20:08.887] [info] Starting up Input Loader v0.1.1
+[2023-10-08 20:20:08.887] [info] Connected to RED4ext - registering load callback
+[2023-10-08 20:20:08.887] [info] Loading original input configs for merging
+[2023-10-08 20:20:15.602] [info] Loading input configs from r6/input
+[2023-10-08 20:20:15.602] [info] Loading input configs from dynamically added paths
+[2023-10-08 20:20:15.602] [info] Merged inputContexts saved to 'r6/cache/inputContexts.xml'
+[2023-10-08 20:20:15.603] [info] Merged inputUserMappings saved to 'r6/cache/inputUserMappings.xml'
+[2023-10-08 20:20:15.603] [info] Game config saved to 'engine/config/platform/pc/input_loader.ini'
+[2023-10-08 20:21:24.678] [info] Shutting down

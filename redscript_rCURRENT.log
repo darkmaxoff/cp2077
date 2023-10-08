@@ -1,0 +1,12 @@
+[INFO - Sun, 8 Oct 2023 20:38:10 +0300] Using defaults for the script manifest (manifest not present)
+[INFO - Sun, 8 Oct 2023 20:38:10 +0300] Bundle path provided: F:\Cyberpunk 2077\r6\cache\modded\final.redscripts
+[INFO - Sun, 8 Oct 2023 20:38:10 +0300] Compiling files in F:\Cyberpunk 2077\r6\scripts:
+ArchiveXL\ArchiveXL.reds
+Codeware\Codeware.Global.reds
+Codeware\Codeware.Localization.reds
+Codeware\Codeware.reds
+Codeware\Codeware.UI.reds
+Codeware\Codeware.UI.TextInput.reds
+TweakXL\TweakXL.reds
+[INFO - Sun, 8 Oct 2023 20:38:10 +0300] Compilation complete
+[INFO - Sun, 8 Oct 2023 20:38:10 +0300] Output successfully saved to F:\Cyberpunk 2077\r6\cache\modded\final.redscripts

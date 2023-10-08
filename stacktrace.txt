@@ -1,0 +1,4 @@
+Error reason: Assert
+Expression: <Unknown>
+Message: Gpu Crash for unknown reasons! Callstack here is probably irrelevant. Check if Breadcrumbs or Aftermath logged anything useful.
+File: E:\R6.Release\dev\src\common\gpuApi\src\dx12\gpuApiDX12Error.cpp(42)

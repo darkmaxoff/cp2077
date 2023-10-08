@@ -1,0 +1,2634 @@
+Device Removed Reason: 0x887a0006 : 
+GPU Crash Reason: Unknown
+
+Dumping SubmitOrder Reuse
+SubmitOrder: [    5235:  56] del
+SubmitOrder: [    5235:  49] del
+SubmitOrder: [    5235:  59] del
+SubmitOrder: [    5235:  51] del
+SubmitOrder: [    5235:  52] del
+SubmitOrder: [    5235:  55] del
+SubmitOrder: [    5236:  30] del
+SubmitOrder: [    5236:  36] del
+SubmitOrder: [    5236:   8] del
+SubmitOrder: [    5236:  28] del
+SubmitOrder: [    5236:  27] del
+SubmitOrder: [    5236:  31] del
+SubmitOrder: [    5236:   7] del
+SubmitOrder: [    5236:  32] del
+SubmitOrder: [    5236:  29] del
+SubmitOrder: [    5236:  24] del
+SubmitOrder: [    5236:  17] del
+SubmitOrder: [    5236:  25] del
+SubmitOrder: [    5236:  34] del
+SubmitOrder: [    5236:  26] del
+SubmitOrder: [    5236:  18] del
+SubmitOrder: [    5236:  10] del
+SubmitOrder: [    5236:  19] del
+SubmitOrder: [    5236:  20] del
+SubmitOrder: [    5236:  22] del
+SubmitOrder: [    5236:  21] del
+SubmitOrder: [    5236:  23] del
+SubmitOrder: [    5236:  13] del
+SubmitOrder: [    5236:  14] del
+SubmitOrder: [    5236:  58] del
+SubmitOrder: [    5236:  44] del
+SubmitOrder: [    5236:  57] del
+SubmitOrder: [    5236:  48] del
+SubmitOrder: [    5236:  59] del
+SubmitOrder: [    5236:  62] del
+SubmitOrder: [    5236:  52] del
+SubmitOrder: [    5236:  53] del
+SubmitOrder: [    5237:  32] del
+SubmitOrder: [    5237:   9] del
+SubmitOrder: [    5237:  33] del
+SubmitOrder: [    5237:  37] del
+SubmitOrder: [    5237:  15] del
+SubmitOrder: [    5237:  10] del
+SubmitOrder: [    5237:  12] del
+SubmitOrder: [    5237:  16] del
+SubmitOrder: [    5237:  20] del
+SubmitOrder: [    5237:  13] del
+SubmitOrder: [    5237:  58] del
+SubmitOrder: [    5237:  56] del
+SubmitOrder: [    5237:  41] del
+SubmitOrder: [    5237:  57] del
+SubmitOrder: [    5237:  47] del
+SubmitOrder: [    5237:  62] del
+SubmitOrder: [    5237:  53] del
+SubmitOrder: [    5237:  54] del
+SubmitOrder: [    5237:  55] del
+SubmitOrder: [    5238:   2] del
+SubmitOrder: [    5238:  13] del
+SubmitOrder: [    5238:  12] del
+SubmitOrder: [    5238:  42] del
+SubmitOrder: [    5239:   2] del
+SubmitOrder: [    5239:  42] del
+SubmitOrder: [    5246:   1] del
+SubmitOrder: [    5257:  38] del
+SubmitOrder: [    5263:  38] del
+SubmitOrder: [    5264:   6] del
+SubmitOrder: [    5265:  19] del
+SubmitOrder: [    5266:  36] del
+SubmitOrder: [    5266:  35] del
+SubmitOrder: [    5266:  34] del
+SubmitOrder: [    5266:  33] del
+SubmitOrder: [    5266:  32] del
+SubmitOrder: [    5266:  31] del
+SubmitOrder: [    5266:  13] del
+SubmitOrder: [    5267:  10] del
+SubmitOrder: [    5267:   4] del
+SubmitOrder: [    5267:  37] del
+SubmitOrder: [    5267:  36] del
+SubmitOrder: [    5267:  35] del
+SubmitOrder: [    5267:  28] del
+SubmitOrder: [    5268:  34] del
+SubmitOrder: [    5268:  29] del
+SubmitOrder: [    5268:  21] del
+SubmitOrder: [    5269:   3] del
+SubmitOrder: [    5269:  36] del
+SubmitOrder: [    5269:  23] del
+SubmitOrder: [    5270:  38] del
+SubmitOrder: [    5270:  32] del
+SubmitOrder: [    5270:  26] del
+SubmitOrder: [    5271:   7] del
+SubmitOrder: [    5271:  17] del
+SubmitOrder: [    5272:  30] del
+SubmitOrder: [    5272:  22] del
+SubmitOrder: [    5273:   7] del
+SubmitOrder: [    5273:   6] del
+SubmitOrder: [    5274:  34] del
+SubmitOrder: [    5275:  27] del
+SubmitOrder: [    5282:   7] del
+SubmitOrder: [    5293:   8] del
+SubmitOrder: [    5294:   7] del
+SubmitOrder: [    5295:   8] del
+SubmitOrder: [    5295:   7] del
+SubmitOrder: [    5296:   7] del
+SubmitOrder: [    5296:   6] del
+SubmitOrder: [    5296:   5] del
+SubmitOrder: [    5300:  59] del
+SubmitOrder: [    5301:  22] del
+SubmitOrder: [    5303:   2] del
+SubmitOrder: [    5306:  15] del
+SubmitOrder: [    5308:  19] del
+SubmitOrder: [    5310:  35] del
+SubmitOrder: [    5312:  41] del
+SubmitOrder: [    5335:  17] del
+SubmitOrder: [    5340:  42] del
+SubmitOrder: [    5370:   5] del
+SubmitOrder: [    5370:  10] del
+SubmitOrder: [    5371:   5] del
+SubmitOrder: [    5372:   2] del
+SubmitOrder: [    5373:   9] del
+SubmitOrder: [    5373:  27] del
+SubmitOrder: [    5374:   6] del
+SubmitOrder: [    5374:   7] del
+SubmitOrder: [    5374:   8] del
+SubmitOrder: [    5381:  29] del
+SubmitOrder: [    5381:  18] del
+SubmitOrder: [    5382:   3] del
+SubmitOrder: [    5385:  16] del
+SubmitOrder: [    5385:  15] del
+SubmitOrder: [    5391:  24] del
+SubmitOrder: [    5404:  12] del
+SubmitOrder: [    5404:  11] del
+SubmitOrder: [    5405:  28] del
+SubmitOrder: [    5406:  31] del
+SubmitOrder: [    5412:  13] del
+SubmitOrder: [    5441:  14] del
+SubmitOrder: [    5466:  15] del
+SubmitOrder: [    5470:  26] del
+SubmitOrder: [    5473:  29] del
+SubmitOrder: [    5474:  25] del
+SubmitOrder: [    5482:  14] del
+SubmitOrder: [    5523:  29] del
+SubmitOrder: [    5527:   1] del
+SubmitOrder: [    5527:  26] del
+SubmitOrder: [    5533:  25] del
+SubmitOrder: [    5603:  13] del
+SubmitOrder: [    5643:  29] del
+SubmitOrder: [    5655:  16] del
+SubmitOrder: [    5691:   1] del
+SubmitOrder: [    5707:  26] del
+SubmitOrder: [    5713:  29] del
+SubmitOrder: [    5740:  30] del
+SubmitOrder: [    5745:   4] del
+SubmitOrder: [    5775:  14] del
+SubmitOrder: [    5777:   9] del
+SubmitOrder: [    5807:  20] del
+SubmitOrder: [    5840:  30] del
+SubmitOrder: [    5867:  14] del
+SubmitOrder: [    5873:  30] del
+SubmitOrder: [    5875:  29] del
+SubmitOrder: [    5958:  15] del
+SubmitOrder: [    6018:  25] del
+SubmitOrder: [    6022:  12] del
+SubmitOrder: [    6035:  14] del
+SubmitOrder: [    6075:  21] del
+SubmitOrder: [    6083:   4] del
+SubmitOrder: [    6165:  21] del
+SubmitOrder: [    6215:   4] del
+SubmitOrder: [    6219:   1] del
+SubmitOrder: [    6234:  15] del
+SubmitOrder: [    6268:  16] del
+SubmitOrder: [    6285:  32] del
+SubmitOrder: [    6290:  13] del
+SubmitOrder: [    6299:   9] del
+SubmitOrder: [    6305:   1] del
+SubmitOrder: [    6383:  13] del
+SubmitOrder: [    6478:   5] del
+SubmitOrder: [    6497:   1] del
+SubmitOrder: [    6618:  32] del
+SubmitOrder: [    6705:  14] del
+SubmitOrder: [    6706:  11] del
+SubmitOrder: [    6715:   4] del
+SubmitOrder: [    6741:  25] del
+SubmitOrder: [    6784:  30] del
+SubmitOrder: [    6789:   1] del
+SubmitOrder: [    6792:   4] del
+SubmitOrder: [    6821:  15] del
+SubmitOrder: [    6822:  12] del
+SubmitOrder: [    6874:  19] del
+SubmitOrder: [    6891:   5] del
+SubmitOrder: [    6897:  15] del
+SubmitOrder: [    6900:  15] del
+SubmitOrder: [    6930:   4] del
+SubmitOrder: [    6952:   1] del
+SubmitOrder: [    6966:   3] del
+SubmitOrder: [    6974:  15] del
+SubmitOrder: [    7009:  31] del
+SubmitOrder: [    7025:  14] del
+SubmitOrder: [    7079:  16] del
+SubmitOrder: [    7085:   3] del
+SubmitOrder: [    7117:  11] del
+SubmitOrder: [    7138:   1] del
+SubmitOrder: [    7191:   1] -prev-> [       0:   0]
+SubmitOrder: [    7191:   2] -prev-> [       0:   0]
+SubmitOrder: [    7191:   5] -prev-> [       0:   0]
+SubmitOrder: [    7199:   3] -prev-> [    7197:  15]
+SubmitOrder: [    7201:   1] -prev-> [    7191:  18]
+SubmitOrder: [    7203:  25] -prev-> [    7200:  29]
+SubmitOrder: [    7203:  26] -prev-> [    7200:  25]
+SubmitOrder: [    7203:  27] -prev-> [    7200:  24]
+SubmitOrder: [    7203:  29] -prev-> [    7200:  26]
+SubmitOrder: [    7204:  22] -prev-> [    7201:  23]
+SubmitOrder: [    7204:  23] -prev-> [    7201:  24]
+SubmitOrder: [    7204:  25] -prev-> [    7201:  32]
+SubmitOrder: [    7204:  27] -prev-> [    7201:  27]
+SubmitOrder: [    7204:  28] -prev-> [    7201:  30]
+SubmitOrder: [    7204:  29] -prev-> [    7201:  28]
+SubmitOrder: [    7204:  33] -prev-> [    7201:  34]
+SubmitOrder: [    7204:  34] -prev-> [    7201:  35]
+SubmitOrder: [    7204:  35] -prev-> [    7201:  36]
+SubmitOrder: [    7204:  36] -prev-> [    7201:  37]
+SubmitOrder: [    7204:  37] -prev-> [    7201:  38]
+SubmitOrder: [    7204:  38] -prev-> [    7201:  39]
+SubmitOrder: [    7204:  39] -prev-> [    7201:  40]
+SubmitOrder: [    7204:  40] -prev-> [    7201:  41]
+SubmitOrder: [    7204:  41] -prev-> [    7201:  42]
+SubmitOrder: [    7204:  42] -prev-> [    7201:  43]
+SubmitOrder: [    7204:  43] -prev-> [    7201:  44]
+SubmitOrder: [    7204:  44] -prev-> [    7201:  45]
+SubmitOrder: [    7204:  45] -prev-> [    7201:  46]
+SubmitOrder: [    7204:  46] -prev-> [    7201:  47]
+SubmitOrder: [    7204:  47] -prev-> [    7201:  48]
+SubmitOrder: [    7204:  48] -prev-> [    7201:  49]
+SubmitOrder: [    7204:  49] -prev-> [    7201:  50]
+SubmitOrder: [    7204:  50] -prev-> [    7201:  51]
+SubmitOrder: [    7204:  51] -prev-> [    7201:  52]
+SubmitOrder: [    7204:  52] -prev-> [    7201:  53]
+SubmitOrder: [    7204:  53] -prev-> [    7201:  54]
+SubmitOrder: [    7204:  54] -prev-> [    7201:  55]
+SubmitOrder: [    7204:  55] -prev-> [    7201:  56]
+SubmitOrder: [    7204:  56] -prev-> [    7201:  57]
+SubmitOrder: [    7204:  57] -prev-> [    7201:  58]
+SubmitOrder: [    7204:  58] -prev-> [    7201:  59]
+SubmitOrder: [    7205:   1] -prev-> [    7202:  33]
+SubmitOrder: [    7205:   2] -prev-> [    7203:   2]
+SubmitOrder: [    7205:   3] -prev-> [    7203:   3]
+SubmitOrder: [    7205:   4] -prev-> [    7203:  14]
+SubmitOrder: [    7205:   5] -prev-> [    7203:  11]
+SubmitOrder: [    7205:   6] -prev-> [    7203:   5]
+SubmitOrder: [    7205:   7] -prev-> [    7203:  10]
+SubmitOrder: [    7205:   8] -prev-> [    7203:   8]
+SubmitOrder: [    7205:   9] -prev-> [    7203:  12]
+SubmitOrder: [    7205:  10] -prev-> [    7203:   9]
+SubmitOrder: [    7205:  11] -prev-> [    7203:   7]
+SubmitOrder: [    7205:  12] -prev-> [    7203:  13]
+SubmitOrder: [    7205:  13] -prev-> [    7203:   6]
+SubmitOrder: [    7205:  14] -prev-> [    7203:   4]
+SubmitOrder: [    7205:  15] -prev-> [    7203:  15]
+SubmitOrder: [    7205:  16] -prev-> [    7203:  16]
+SubmitOrder: [    7205:  17] -prev-> [    7203:  17]
+SubmitOrder: [    7205:  18] -prev-> [    7203:  18]
+SubmitOrder: [    7205:  19] -prev-> [    7203:  19]
+SubmitOrder: [    7205:  20] -prev-> [    7203:  20]
+SubmitOrder: [    7205:  21] -prev-> [    7203:  21]
+SubmitOrder: [    7205:  22] -prev-> [    7202:  22]
+SubmitOrder: [    7205:  23] -prev-> [    7202:  23]
+SubmitOrder: [    7205:  24] -prev-> [    7202:  24]
+SubmitOrder: [    7205:  25] -prev-> [    7202:  30]
+SubmitOrder: [    7205:  26] -prev-> [    7202:  31]
+SubmitOrder: [    7205:  27] -prev-> [    7202:  29]
+SubmitOrder: [    7205:  28] -prev-> [    7202:  27]
+SubmitOrder: [    7205:  29] -prev-> [    7202:  26]
+SubmitOrder: [    7205:  30] -prev-> [    7202:  28]
+SubmitOrder: [    7205:  31] -prev-> [    7202:  25]
+SubmitOrder: [    7205:  32] -prev-> [    7203:  32]
+SubmitOrder: [    7205:  33] -prev-> [    7203:   1]
+SubmitOrder: [    7205:  34] -prev-> [    7202:  34]
+SubmitOrder: [    7205:  35] -prev-> [    7202:  35]
+SubmitOrder: [    7205:  36] -prev-> [    7202:  36]
+SubmitOrder: [    7205:  37] -prev-> [    7202:  37]
+SubmitOrder: [    7205:  38] -prev-> [    7202:  38]
+SubmitOrder: [    7205:  39] -prev-> [    7202:  39]
+SubmitOrder: [    7205:  40] -prev-> [    7202:  40]
+SubmitOrder: [    7205:  41] -prev-> [    7202:  41]
+SubmitOrder: [    7205:  42] -prev-> [    7202:  42]
+SubmitOrder: [    7205:  43] -prev-> [    7202:  43]
+SubmitOrder: [    7205:  44] -prev-> [    7202:  44]
+SubmitOrder: [    7205:  45] -prev-> [    7202:  45]
+SubmitOrder: [    7205:  46] -prev-> [    7202:  46]
+SubmitOrder: [    7205:  47] -prev-> [    7202:  47]
+SubmitOrder: [    7205:  48] -prev-> [    7202:  48]
+SubmitOrder: [    7205:  49] -prev-> [    7202:  49]
+SubmitOrder: [    7205:  50] -prev-> [    7202:  50]
+SubmitOrder: [    7205:  51] -prev-> [    7202:  51]
+SubmitOrder: [    7205:  52] -prev-> [    7202:  52]
+SubmitOrder: [    7205:  53] -prev-> [    7202:  53]
+SubmitOrder: [    7205:  54] -prev-> [    7202:  54]
+SubmitOrder: [    7205:  55] -prev-> [    7202:  55]
+SubmitOrder: [    7205:  56] -prev-> [    7202:  56]
+SubmitOrder: [    7205:  57] -prev-> [    7202:  57]
+SubmitOrder: [    7205:  58] -prev-> [    7202:  58]
+SubmitOrder: [    7206:   1] -prev-> [    7204:  15]
+SubmitOrder: [    7206:   2] -prev-> [    7204:   2]
+SubmitOrder: [    7206:   3] -prev-> [    7204:   3]
+SubmitOrder: [    7206:   4] -prev-> [    7204:   4]
+SubmitOrder: [    7206:   5] -prev-> [    7204:   5]
+SubmitOrder: [    7206:   6] -prev-> [    7204:   6]
+SubmitOrder: [    7206:   7] -prev-> [    7204:  14]
+SubmitOrder: [    7206:   8] -prev-> [    7204:  11]
+SubmitOrder: [    7206:   9] -prev-> [    7204:   7]
+SubmitOrder: [    7206:  10] -prev-> [    7204:   8]
+SubmitOrder: [    7206:  11] -prev-> [    7204:  13]
+SubmitOrder: [    7206:  12] -prev-> [    7204:   9]
+SubmitOrder: [    7206:  13] -prev-> [    7204:  10]
+SubmitOrder: [    7206:  14] -prev-> [    7204:  12]
+SubmitOrder: [    7206:  15] -prev-> [    7204:   1]
+SubmitOrder: [    7206:  16] -prev-> [    7204:  16]
+SubmitOrder: [    7206:  17] -prev-> [    7204:  17]
+SubmitOrder: [    7206:  18] -prev-> [    7204:  18]
+SubmitOrder: [    7206:  19] -prev-> [    7204:  19]
+SubmitOrder: [    7206:  20] -prev-> [    7204:  20]
+SubmitOrder: [    7206:  21] -prev-> [    7203:  33]
+SubmitOrder: [    7206:  22] -prev-> [    7203:  22]
+SubmitOrder: [    7206:  23] -prev-> [    7203:  23]
+SubmitOrder: [    7206:  24] -prev-> [    7203:  24]
+SubmitOrder: [    7206:  25] -prev-> [    7204:  24]
+SubmitOrder: [    7206:  26] -prev-> [    7203:  28]
+SubmitOrder: [    7206:  27] -prev-> [    7203:  30]
+SubmitOrder: [    7206:  28] -prev-> [    7204:  26]
+SubmitOrder: [    7206:  29] -prev-> [    7203:  31]
+SubmitOrder: [    7206:  30] -prev-> [    7204:  31]
+SubmitOrder: [    7206:  31] -prev-> [    7204:  30]
+SubmitOrder: [    7206:  32] -prev-> [    7204:  32]
+SubmitOrder: [    7206:  33] -prev-> [    7204:  21]
+SubmitOrder: [    7206:  34] -prev-> [    7203:  34]
+SubmitOrder: [    7206:  35] -prev-> [    7203:  35]
+SubmitOrder: [    7206:  36] -prev-> [    7203:  36]
+SubmitOrder: [    7206:  37] -prev-> [    7203:  37]
+SubmitOrder: [    7206:  38] -prev-> [    7203:  38]
+SubmitOrder: [    7206:  39] -prev-> [    7203:  39]
+SubmitOrder: [    7206:  40] -prev-> [    7203:  40]
+SubmitOrder: [    7206:  41] -prev-> [    7203:  41]
+SubmitOrder: [    7206:  42] -prev-> [    7203:  42]
+SubmitOrder: [    7206:  43] -prev-> [    7203:  43]
+SubmitOrder: [    7206:  44] -prev-> [    7203:  44]
+SubmitOrder: [    7206:  45] -prev-> [    7203:  45]
+SubmitOrder: [    7206:  46] -prev-> [    7203:  46]
+SubmitOrder: [    7206:  47] -prev-> [    7203:  47]
+SubmitOrder: [    7206:  48] -prev-> [    7203:  48]
+SubmitOrder: [    7206:  49] -prev-> [    7203:  49]
+SubmitOrder: [    7206:  50] -prev-> [    7203:  50]
+SubmitOrder: [    7206:  51] -prev-> [    7203:  51]
+SubmitOrder: [    7206:  52] -prev-> [    7203:  52]
+SubmitOrder: [    7206:  53] -prev-> [    7203:  53]
+SubmitOrder: [    7206:  54] -prev-> [    7203:  54]
+SubmitOrder: [    7206:  55] -prev-> [    7203:  55]
+SubmitOrder: [    7206:  56] -prev-> [    7203:  56]
+SubmitOrder: [    7206:  57] -prev-> [    7203:  57]
+SubmitOrder: [    7206:  58] -prev-> [    7203:  58]
+Dumping SubmitOrder Reuse Complete
+
+Dumping Breadcrumbs
+Breadcrumbs: Command list '[    7191:   1] [000001814D008110 CopyAsync] CopyQueueUpload': Finished [2]
+Breadcrumbs: Command list '[    7191:   2] [000001815019BB20 CopyAsync] CopyQueueUpload': Finished [2]
+Breadcrumbs: Command list '[    7191:   5] [00000181533A5520 CopyAsync] CopyQueueUpload': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7199:   3] [0000018129725960 Default] <<-merge [000001814DEFAFE0 Default] UpdateGlyphCacheTexture': Finished [2]
+Breadcrumbs: Command list '[    7201:   1] [0000018146FD9E70 CopyAsync] CopyQueueUpload': Finished [2]
+Breadcrumbs: Command list '[    7203:  25] [0000018163C02D30 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7203:  26] [000001814E79E290 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7203:  27] [000001814E9F22E0 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7203:  29] [0000018144CF22E0 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7204:  22] [000001814E0C35F0 Default] DepthPrepass': Finished [2]
+Breadcrumbs: Command list '[    7204:  23] [0000018157AFCDF0 Default] GBufferEarly_Velocity_Weapon': Finished [2]
+Breadcrumbs: Command list '[    7204:  25] [000001814A5F5FB0 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7204:  27] [000001815EF896C0 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7204:  28] [0000018148D8BC00 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7204:  29] [000001814FFE1F90 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7204:  33] [0000018161D9B040 Default] <<-merge [0000018168D4A640 Default] GBuffer_Discard': Finished [2]
+Breadcrumbs: Command list '[    7204:  34] [0000018168D4A640 Default] GBuffer_Discard': Finished [2]
+Breadcrumbs: Command list '[    7204:  35] [000001815CAB94B0 Default] GBufferVelocity_Solid': Finished [2]
+Breadcrumbs: Command list '[    7204:  36] [000001814D45C9F0 Default] GBufferVelocity_Discard': Finished [2]
+Breadcrumbs: Command list '[    7204:  37] [000001814E9165F0 Default] DeferredDecals': Finished [2]
+Breadcrumbs: Command list '[    7204:  38] [0000018168D44230 Default] Hair_Opaque': Finished [2]
+Breadcrumbs: Command list '[    7204:  39] [0000018166185810 Default] PostGBufferOverrides': Finished [3]
+Breadcrumbs: Command list '[    7204:  40] [00000181594D82B0 Default] GenerateDynamicTextures': Finished [2]
+Breadcrumbs: Command list '[    7204:  41] [0000018151A75E90 Default] RenderDistantShadows': Finished [2]
+Breadcrumbs: Command list '[    7204:  42] [0000018168D41C10 Default] RenderCascade0': Finished [2]
+Breadcrumbs: Command list '[    7204:  43] [000001815667FD70 Default] RenderCascade1': Finished [2]
+Breadcrumbs: Command list '[    7204:  44] [000001813827F2F0 Default] RenderCascade2': Finished [2]
+Breadcrumbs: Command list '[    7204:  45] [000001815FCFBB80 Default] RenderLocalShadows0': Finished [2]
+Breadcrumbs: Command list '[    7204:  46] [0000018139DF21B0 Default] RenderLocalShadows1': Finished [2]
+Breadcrumbs: Command list '[    7204:  47] [000001815FCFB520 Default] Lighting': Finished [2]
+Breadcrumbs: Command list '[    7204:  48] [000001815FCFAEC0 Default] DecoupledParticleLighting': Finished [8]
+Breadcrumbs: Command list '[    7204:  49] [000001814F5040B0 Default] Skin_Post_and_Forward_Opaque': Finished [2]
+Breadcrumbs: Command list '[    7204:  50] [000001815FCFA200 Default] HologramDepth_and_Distortion': Finished [2]
+Breadcrumbs: Command list '[    7204:  51] [0000018159909080 Default] Transparents': Finished [2]
+Breadcrumbs: Command list '[    7204:  52] [000001814EBBB640 Default] Transparents_WeaponAndScreen': Finished [2]
+Breadcrumbs: Command list '[    7204:  53] [000001812DF54EF0 Default] TXAA_Blurs': Finished [2]
+Breadcrumbs: Command list '[    7204:  54] [0000018142E59240 Default] DoF_MotionBlur': Finished [2]
+Breadcrumbs: Command list '[    7204:  55] [00000181687374E0 Default] Forward_NoTXAA': Finished [2]
+Breadcrumbs: Command list '[    7204:  56] [0000018159361E90 Default] PostFX': Finished [2]
+Breadcrumbs: Command list '[    7204:  57] [00000181364CF710 Default] RenderFinal2D': Finished [2]
+Breadcrumbs: Command list '[    7204:  58] [000001812F7E3DA0 Default] EndRender': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7205:   1] [000001813812A6C0 Default] <<-merge [000001815827F360 Default] FrameTick': Finished [2]
+Breadcrumbs: Command list '[    7205:   2] [000001815827F360 Default] FrameTick': Finished [3]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7205:   3] [000001814DEFAFE0 Default] UpdateGlyphCacheTexture': Finished [2]
+Breadcrumbs: Command list '[    7205:   4] [0000018152465200 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:   5] [000001812B0C38A0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:   6] [0000018139DF1AE0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:   7] [000001812D4EB850 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:   8] [0000018134D3BC90 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:   9] [000001815684D460 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:  10] [00000181549BAD00 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:  11] [0000018152B182C0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:  12] [000001814CD06120 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:  13] [0000018147775AA0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7205:  14] [00000181374C3D20 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7205:  15] [0000018133B079C0 Default] <<-merge [000001814BB72500 Default] StorageData': Finished [2]
+Breadcrumbs: Command list '[    7205:  16] [000001814BB72500 Default] StorageData': Finished [3]
+Breadcrumbs: Command list '[    7205:  17] [00000181390CA020 Default] StartRender': Finished [2]
+Breadcrumbs: Command list '[    7205:  18] [000001815972B1A0 Default] WindUpdateAndRainMap': Finished [2]
+Breadcrumbs: Command list '[    7205:  19] [000001814CAD9F10 Default] RenderPrep': Finished [3]
+Breadcrumbs: Command list '[    7205:  20] [000001814F4FEE90 Default] PrepareGloballyAccessibleSystems': Finished [5]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7205:  21] [0000018146F00CB0 Default] <<-merge [000001814FBBD9A0 Default] DepthPrepass': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7205:  22] [000001814FBBD9A0 Default] DepthPrepass': Finished [2]
+Breadcrumbs: Command list '[    7205:  23] [000001814FE5D480 Default] GBufferEarly_Velocity_Weapon': Finished [2]
+Breadcrumbs: Command list '[    7205:  24] [00000181527EABB0 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7205:  25] [000001816003C040 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7205:  26] [000001814EC64650 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7205:  27] [00000181460D9000 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7205:  28] [000001814E29A500 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7205:  29] [000001814D6F2DE0 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7205:  30] [0000018148F71810 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7205:  31] [00000181389E0B80 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7205:  32] [000001812BD37500 Compute] AsyncWater': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7205:  33] [0000018139BBEA00 Default] <<-merge [0000018168729D60 Default] GBuffer_Discard': Finished [2]
+Breadcrumbs: Command list '[    7205:  34] [0000018168729D60 Default] GBuffer_Discard': Finished [2]
+Breadcrumbs: Command list '[    7205:  35] [000001814646C550 Default] GBufferVelocity_Solid': Finished [2]
+Breadcrumbs: Command list '[    7205:  36] [00000181687362E0 Default] GBufferVelocity_Discard': Finished [2]
+Breadcrumbs: Command list '[    7205:  37] [00000181427AAE30 Default] DeferredDecals': Finished [2]
+Breadcrumbs: Command list '[    7205:  38] [000001812D74FBF0 Default] Hair_Opaque': Finished [2]
+Breadcrumbs: Command list '[    7205:  39] [000001813790CF50 Default] PostGBufferOverrides': Finished [3]
+Breadcrumbs: Command list '[    7205:  40] [00000181533B9CE0 Default] GenerateDynamicTextures': Finished [2]
+Breadcrumbs: Command list '[    7205:  41] [00000181533B1DF0 Default] RenderDistantShadows': Finished [2]
+Breadcrumbs: Command list '[    7205:  42] [0000018155468DB0 Default] RenderCascade0': Finished [2]
+Breadcrumbs: Command list '[    7205:  43] [000001812B736AF0 Default] RenderCascade1': Finished [2]
+Breadcrumbs: Command list '[    7205:  44] [000001814F505A30 Default] RenderCascade2': Finished [2]
+Breadcrumbs: Command list '[    7205:  45] [0000018150D823C0 Default] RenderLocalShadows0': Finished [2]
+Breadcrumbs: Command list '[    7205:  46] [000001814F504D70 Default] RenderLocalShadows1': Finished [2]
+Breadcrumbs: Command list '[    7205:  47] [000001814631DC90 Default] Lighting': Finished [2]
+Breadcrumbs: Command list '[    7205:  48] [000001814CDD3060 Default] DecoupledParticleLighting': Finished [8]
+Breadcrumbs: Command list '[    7205:  49] [000001815F9BDCC0 Default] Skin_Post_and_Forward_Opaque': Finished [2]
+Breadcrumbs: Command list '[    7205:  50] [000001814F503A50 Default] HologramDepth_and_Distortion': Finished [2]
+Breadcrumbs: Command list '[    7205:  51] [000001814D222DD0 Default] Transparents': Finished [2]
+Breadcrumbs: Command list '[    7205:  52] [00000181599096E0 Default] Transparents_WeaponAndScreen': Finished [2]
+Breadcrumbs: Command list '[    7205:  53] [000001814CAE0C00 Default] TXAA_Blurs': Finished [2]
+Breadcrumbs: Command list '[    7205:  54] [000001814BE6C6E0 Default] DoF_MotionBlur': Finished [2]
+Breadcrumbs: Command list '[    7205:  55] [0000018159652220 Default] Forward_NoTXAA': Finished [2]
+Breadcrumbs: Command list '[    7205:  56] [000001814CAE05A0 Default] PostFX': Finished [2]
+Breadcrumbs: Command list '[    7205:  57] [000001814FFA07E0 Default] RenderFinal2D': Finished [2]
+Breadcrumbs: Command list '[    7205:  58] [000001814F50D4F0 Default] EndRender': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7206:   1] [00000181464AFBE0 Default] <<-merge [000001813603DF20 Default] FrameTick': Finished [2]
+Breadcrumbs: Command list '[    7206:   2] [000001813603DF20 Default] FrameTick': Finished [3]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7206:   3] [00000181524618F0 Default] UpdateGlyphCacheTexture': Finished [2]
+Breadcrumbs: Command list '[    7206:   4] [0000018129D20970 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:   5] [000001814E9E7F80 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:   6] [0000018156D36950 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:   7] [00000181472E77E0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:   8] [000001814EA85C80 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:   9] [000001813700FC80 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:  10] [000001812EC7AAD0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:  11] [0000018160F8C5D0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:  12] [000001815CABDED0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:  13] [000001814DECFAA0 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs: Command list '[    7206:  14] [0000018168EE5160 Default] ProcessDrawBuffer': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7206:  15] [00000181481A8050 Default] <<-merge [0000018159670CE0 Default] StorageData': Finished [2]
+Breadcrumbs: Command list '[    7206:  16] [0000018159670CE0 Default] StorageData': Finished [3]
+Breadcrumbs: Command list '[    7206:  17] [000001814E7351C0 Default] StartRender': Finished [2]
+Breadcrumbs: Command list '[    7206:  18] [0000018149C7CD20 Default] WindUpdateAndRainMap': Finished [2]
+Breadcrumbs: Command list '[    7206:  19] [00000181533B8C60 Default] RenderPrep': Finished [3]
+Breadcrumbs: Command list '[    7206:  20] [00000181480A6840 Default] PrepareGloballyAccessibleSystems': Finished [5]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7206:  21] [000001812E3E7750 Default] <<-merge [000001815FD85A30 Default] DepthPrepass': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7206:  22] [000001815FD85A30 Default] DepthPrepass': Finished [2]
+Breadcrumbs: Command list '[    7206:  23] [0000018166181D10 Default] GBufferEarly_Velocity_Weapon': Finished [2]
+Breadcrumbs: Command list '[    7206:  24] [000001814E5993E0 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7206:  25] [000001814DF28630 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7206:  26] [0000018133E65100 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7206:  27] [00000181617D7230 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7206:  28] [000001815BD40650 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7206:  29] [0000018144B3AD50 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7206:  30] [0000018142E70C80 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs: Command list '[    7206:  31] [000001814CE53A70 Default] GBuffer_Solid': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7206:  32] [0000018139DEC290 Compute] AsyncWater': Finished [2]
+Breadcrumbs:   ----
+Breadcrumbs: Command list '[    7206:  33] [0000018160C96010 Default] <<-merge [0000018142622D10 Default] GBuffer_Discard': Finished [2]
+Breadcrumbs: Command list '[    7206:  34] [0000018142622D10 Default] GBuffer_Discard': Finished [2]
+Breadcrumbs: Command list '[    7206:  35] [00000181599023B0 Default] GBufferVelocity_Solid': Finished [2]
+Breadcrumbs: Command list '[    7206:  36] [0000018157F0E900 Default] GBufferVelocity_Discard': Finished [2]
+Breadcrumbs: Command list '[    7206:  37] [0000018168D45B70 Default] DeferredDecals': Finished [2]
+Breadcrumbs: Command list '[    7206:  38] [00000181427AA7D0 Default] Hair_Opaque': Finished [2]
+Breadcrumbs: Command list '[    7206:  39] [0000018139735DB0 Default] PostGBufferOverrides': Finished [3]
+Breadcrumbs: Command list '[    7206:  40] [00000181533BF0B0 Default] GenerateDynamicTextures': Finished [2]
+Breadcrumbs: Command list '[    7206:  41] [00000181533BA340 Default] RenderDistantShadows': Finished [2]
+Breadcrumbs: Command list '[    7206:  42] [000001812DCE78B0 Default] RenderCascade0': Finished [2]
+Breadcrumbs: Command list '[    7206:  43] [000001814F5053D0 Default] RenderCascade1': Finished [2]
+Breadcrumbs: Command list '[    7206:  44] [0000018137D9D5A0 Default] RenderCascade2': Finished [2]
+Breadcrumbs: Command list '[    7206:  45] [000001814F5066F0 Default] RenderLocalShadows0': Finished [2]
+Breadcrumbs: Command list '[    7206:  46] [0000018134E12BE0 Default] RenderLocalShadows1': Finished [2]
+Breadcrumbs: Command list '[    7206:  47] [000001813D3890B0 Default] Lighting': Finished [2]
+Breadcrumbs: Command list '[    7206:  48] [0000018130A91620 Default] DecoupledParticleLighting': Finished [8]
+Breadcrumbs: Command list '[    7206:  49] [0000018158B91290 Default] Skin_Post_and_Forward_Opaque': Finished [2]
+Breadcrumbs: Command list '[    7206:  50] [000001815813DB20 Default] HologramDepth_and_Distortion': Finished [2]
+Breadcrumbs: Command list '[    7206:  51] [00000181596500F0 Default] Transparents': Finished [2]
+Breadcrumbs: Command list '[    7206:  52] [0000018159650DB0 Default] Transparents_WeaponAndScreen': Finished [2]
+Breadcrumbs: Command list '[    7206:  53] [000001814F5033F0 Default] TXAA_Blurs': Finished [2]
+Breadcrumbs: Command list '[    7206:  54] [000001814CAE1260 Default] DoF_MotionBlur': Finished [2]
+Breadcrumbs: Command list '[    7206:  55] [0000018135F55CD0 Default] Forward_NoTXAA': Finished [2]
+Breadcrumbs: Command list '[    7206:  56] [0000018156F9E190 Default] PostFX': Finished [2]
+Breadcrumbs: Command list '[    7206:  57] [0000018152874220 Default] RenderFinal2D': Finished [2]
+Breadcrumbs: Command list '[    7206:  58] [000001814E0F3080 Default] EndRender': Finished [2]
+Dumping Breadcrumbs Complete
+
+Dumping DRED
+DRED: Checking DRED 1.2 output
+DRED:   Auto-Breadcrumbs Output1:
+DRED:     Command List Unnamed [000001A02887D9D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 14 / 14
+DRED:        History:
+DRED:          6 :  DrawIndexedInstanced (4)
+DRED:          7 :  DrawIndexedInstanced (4)
+DRED:          8 :  DrawIndexedInstanced (4)
+DRED:          9 :  DrawIndexedInstanced (4)
+DRED:          10:  DrawIndexedInstanced (4)
+DRED:          11:  DrawIndexedInstanced (4)
+DRED:          12:  DrawIndexedInstanced (4)
+DRED:          13:  ResourceBarrier (15)
+DRED:          14: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List 'Internal DXGI CommandList' [0000019E5CBC80F0] [No Commands]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 0 / 0
+DRED:       Contexts 0
+DRED:     Command List 'Internal DXGI CommandList' [0000019E5CBC80F0] [No Commands]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 0 / 0
+DRED:       Contexts 0
+DRED:     Command List 'Internal DXGI CommandList' [0000019E5CBC80F0] [No Commands]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 0 / 0
+DRED:       Contexts 0
+DRED:     Command List Unnamed [000001A02887D9D0] [In Progress]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 1 / 14
+DRED:        History:
+DRED:          0:  ResourceBarrier (15)
+DRED:          1: *DrawIndexedInstanced (4)
+DRED:          2:  DrawIndexedInstanced (4)
+DRED:          3:  DrawIndexedInstanced (4)
+DRED:          4:  DrawIndexedInstanced (4)
+DRED:          5:  DrawIndexedInstanced (4)
+DRED:          6:  DrawIndexedInstanced (4)
+DRED:          7:  DrawIndexedInstanced (4)
+DRED:          8:  DrawIndexedInstanced (4)
+DRED:          9:  DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List Unnamed [000001A02887D9D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 14 / 14
+DRED:        History:
+DRED:          6 :  DrawIndexedInstanced (4)
+DRED:          7 :  DrawIndexedInstanced (4)
+DRED:          8 :  DrawIndexedInstanced (4)
+DRED:          9 :  DrawIndexedInstanced (4)
+DRED:          10:  DrawIndexedInstanced (4)
+DRED:          11:  DrawIndexedInstanced (4)
+DRED:          12:  DrawIndexedInstanced (4)
+DRED:          13:  ResourceBarrier (15)
+DRED:          14: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7199:   3] [0000018129725960 Default] <<-merge [000001814DEFAFE0 Default] UpdateGlyphCacheTexture' [000001A0673504D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7203:  25] [0000018163C02D30 Default] GBuffer_Solid' [000001A02887B680] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 134 / 134
+DRED:        History:
+DRED:          126:  DrawIndexedInstanced (4)
+DRED:          127:  DrawIndexedInstanced (4)
+DRED:          128:  DrawIndexedInstanced (4)
+DRED:          129:  DrawIndexedInstanced (4)
+DRED:          130:  WriteBufferImmediate (26)
+DRED:          131:  ResourceBarrier (15)
+DRED:          132:  WriteBufferImmediate (26)
+DRED:          133:  WriteBufferImmediate (26)
+DRED:          134: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7203:  26] [000001814E79E290 Default] GBuffer_Solid' [0000019E19AEF930] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 172 / 172
+DRED:        History:
+DRED:          164:  DrawIndexedInstanced (4)
+DRED:          165:  DrawIndexedInstanced (4)
+DRED:          166:  DrawIndexedInstanced (4)
+DRED:          167:  DrawIndexedInstanced (4)
+DRED:          168:  WriteBufferImmediate (26)
+DRED:          169:  ResourceBarrier (15)
+DRED:          170:  WriteBufferImmediate (26)
+DRED:          171:  WriteBufferImmediate (26)
+DRED:          172: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7203:  27] [000001814E9F22E0 Default] GBuffer_Solid' [0000019AC0633350] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 219 / 219
+DRED:        History:
+DRED:          211:  DrawIndexedInstanced (4)
+DRED:          212:  DrawIndexedInstanced (4)
+DRED:          213:  DrawIndexedInstanced (4)
+DRED:          214:  DrawIndexedInstanced (4)
+DRED:          215:  WriteBufferImmediate (26)
+DRED:          216:  ResourceBarrier (15)
+DRED:          217:  WriteBufferImmediate (26)
+DRED:          218:  WriteBufferImmediate (26)
+DRED:          219: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7203:  29] [0000018144CF22E0 Default] GBuffer_Solid' [000001A06A628040] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 281 / 281
+DRED:        History:
+DRED:          273:  DrawIndexedInstanced (4)
+DRED:          274:  DrawIndexedInstanced (4)
+DRED:          275:  DrawIndexedInstanced (4)
+DRED:          276:  DrawIndexedInstanced (4)
+DRED:          277:  WriteBufferImmediate (26)
+DRED:          278:  ResourceBarrier (15)
+DRED:          279:  WriteBufferImmediate (26)
+DRED:          280:  WriteBufferImmediate (26)
+DRED:          281: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  22] [000001814E0C35F0 Default] DepthPrepass' [000001A04CBCEBE0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 541 / 541
+DRED:        History:
+DRED:          533:  DrawIndexedInstanced (4)
+DRED:          534:  DrawIndexedInstanced (4)
+DRED:          535:  DrawIndexedInstanced (4)
+DRED:          536:  DrawIndexedInstanced (4)
+DRED:          537:  WriteBufferImmediate (26)
+DRED:          538:  ResourceBarrier (15)
+DRED:          539:  WriteBufferImmediate (26)
+DRED:          540:  WriteBufferImmediate (26)
+DRED:          541: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  23] [0000018157AFCDF0 Default] GBufferEarly_Velocity_Weapon' [000001A05912B0F0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  ClearRenderTargetView (12)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *ClearRenderTargetView (12)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  25] [000001814A5F5FB0 Default] GBuffer_Solid' [000001A0494F4CD0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 135 / 135
+DRED:        History:
+DRED:          127:  DrawIndexedInstanced (4)
+DRED:          128:  DrawIndexedInstanced (4)
+DRED:          129:  DrawIndexedInstanced (4)
+DRED:          130:  DrawIndexedInstanced (4)
+DRED:          131:  WriteBufferImmediate (26)
+DRED:          132:  ResourceBarrier (15)
+DRED:          133:  WriteBufferImmediate (26)
+DRED:          134:  WriteBufferImmediate (26)
+DRED:          135: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  27] [000001815EF896C0 Default] GBuffer_Solid' [0000019FC31319E0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 220 / 220
+DRED:        History:
+DRED:          212:  DrawIndexedInstanced (4)
+DRED:          213:  DrawIndexedInstanced (4)
+DRED:          214:  DrawIndexedInstanced (4)
+DRED:          215:  DrawIndexedInstanced (4)
+DRED:          216:  WriteBufferImmediate (26)
+DRED:          217:  ResourceBarrier (15)
+DRED:          218:  WriteBufferImmediate (26)
+DRED:          219:  WriteBufferImmediate (26)
+DRED:          220: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  28] [0000018148D8BC00 Default] GBuffer_Solid' [000001A0494F3EB0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 232 / 232
+DRED:        History:
+DRED:          224:  DrawIndexedInstanced (4)
+DRED:          225:  DrawIndexedInstanced (4)
+DRED:          226:  DrawIndexedInstanced (4)
+DRED:          227:  DrawIndexedInstanced (4)
+DRED:          228:  WriteBufferImmediate (26)
+DRED:          229:  ResourceBarrier (15)
+DRED:          230:  WriteBufferImmediate (26)
+DRED:          231:  WriteBufferImmediate (26)
+DRED:          232: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  29] [000001814FFE1F90 Default] GBuffer_Solid' [000001A058A27C10] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 282 / 282
+DRED:        History:
+DRED:          274:  DrawIndexedInstanced (4)
+DRED:          275:  DrawIndexedInstanced (4)
+DRED:          276:  DrawIndexedInstanced (4)
+DRED:          277:  DrawIndexedInstanced (4)
+DRED:          278:  WriteBufferImmediate (26)
+DRED:          279:  ResourceBarrier (15)
+DRED:          280:  WriteBufferImmediate (26)
+DRED:          281:  WriteBufferImmediate (26)
+DRED:          282: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  33] [0000018161D9B040 Default] <<-merge [0000018168D4A640 Default] GBuffer_Discard' [000001A032110720] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  34] [0000018168D4A640 Default] GBuffer_Discard' [000001A03233F4B0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 275 / 275
+DRED:        History:
+DRED:          267:  DrawIndexedInstanced (4)
+DRED:          268:  DrawIndexedInstanced (4)
+DRED:          269:  DrawIndexedInstanced (4)
+DRED:          270:  DrawIndexedInstanced (4)
+DRED:          271:  WriteBufferImmediate (26)
+DRED:          272:  ResourceBarrier (15)
+DRED:          273:  WriteBufferImmediate (26)
+DRED:          274:  WriteBufferImmediate (26)
+DRED:          275: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  35] [000001815CAB94B0 Default] GBufferVelocity_Solid' [000001A032469C20] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 131 / 131
+DRED:        History:
+DRED:          123:  DrawIndexedInstanced (4)
+DRED:          124:  DrawIndexedInstanced (4)
+DRED:          125:  DrawIndexedInstanced (4)
+DRED:          126:  DrawIndexedInstanced (4)
+DRED:          127:  WriteBufferImmediate (26)
+DRED:          128:  ResourceBarrier (15)
+DRED:          129:  WriteBufferImmediate (26)
+DRED:          130:  WriteBufferImmediate (26)
+DRED:          131: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  36] [000001814D45C9F0 Default] GBufferVelocity_Discard' [000001A03254F780] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 120 / 120
+DRED:        History:
+DRED:          112:  DrawIndexedInstanced (4)
+DRED:          113:  DrawIndexedInstanced (4)
+DRED:          114:  DrawIndexedInstanced (4)
+DRED:          115:  DrawIndexedInstanced (4)
+DRED:          116:  WriteBufferImmediate (26)
+DRED:          117:  ResourceBarrier (15)
+DRED:          118:  WriteBufferImmediate (26)
+DRED:          119:  WriteBufferImmediate (26)
+DRED:          120: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  37] [000001814E9165F0 Default] DeferredDecals' [0000019E78A95A60] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 515 / 515
+DRED:        History:
+DRED:          507:  DrawIndexedInstanced (4)
+DRED:          508:  DrawIndexedInstanced (4)
+DRED:          509:  DrawIndexedInstanced (4)
+DRED:          510:  DrawIndexedInstanced (4)
+DRED:          511:  WriteBufferImmediate (26)
+DRED:          512:  ResourceBarrier (15)
+DRED:          513:  WriteBufferImmediate (26)
+DRED:          514:  WriteBufferImmediate (26)
+DRED:          515: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  38] [0000018168D44230 Default] Hair_Opaque' [0000019E6F316D70] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 33 / 33
+DRED:        History:
+DRED:          25:  DrawIndexedInstanced (4)
+DRED:          26:  DrawIndexedInstanced (4)
+DRED:          27:  DrawIndexedInstanced (4)
+DRED:          28:  DrawIndexedInstanced (4)
+DRED:          29:  WriteBufferImmediate (26)
+DRED:          30:  ResourceBarrier (15)
+DRED:          31:  WriteBufferImmediate (26)
+DRED:          32:  WriteBufferImmediate (26)
+DRED:          33: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  39] [0000018166185810 Default] PostGBufferOverrides' [000001A06E643C60] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 47 / 47
+DRED:        History:
+DRED:          39:  ResourceBarrier (15)
+DRED:          40:  Dispatch (6)
+DRED:          41:  ResourceBarrier (15)
+DRED:          42:  Dispatch (6)
+DRED:          43:  WriteBufferImmediate (26)
+DRED:          44:  ResourceBarrier (15)
+DRED:          45:  WriteBufferImmediate (26)
+DRED:          46:  WriteBufferImmediate (26)
+DRED:          47: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  40] [00000181594D82B0 Default] GenerateDynamicTextures' [0000019E19AF0040] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  41] [0000018151A75E90 Default] RenderDistantShadows' [000001A04CBD0820] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 127 / 127
+DRED:        History:
+DRED:          119:  DrawIndexedInstanced (4)
+DRED:          120:  DrawIndexedInstanced (4)
+DRED:          121:  DrawIndexedInstanced (4)
+DRED:          122:  DrawIndexedInstanced (4)
+DRED:          123:  WriteBufferImmediate (26)
+DRED:          124:  ResourceBarrier (15)
+DRED:          125:  WriteBufferImmediate (26)
+DRED:          126:  WriteBufferImmediate (26)
+DRED:          127: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  42] [0000018168D41C10 Default] RenderCascade0' [000001A04FB525D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 150 / 150
+DRED:        History:
+DRED:          142:  ExecuteIndirect (5)
+DRED:          143:  ExecuteIndirect (5)
+DRED:          144:  ExecuteIndirect (5)
+DRED:          145:  ExecuteIndirect (5)
+DRED:          146:  WriteBufferImmediate (26)
+DRED:          147:  ResourceBarrier (15)
+DRED:          148:  WriteBufferImmediate (26)
+DRED:          149:  WriteBufferImmediate (26)
+DRED:          150: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  43] [000001815667FD70 Default] RenderCascade1' [0000019E1A9F0520] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 267 / 267
+DRED:        History:
+DRED:          259:  ExecuteIndirect (5)
+DRED:          260:  ExecuteIndirect (5)
+DRED:          261:  ExecuteIndirect (5)
+DRED:          262:  ExecuteIndirect (5)
+DRED:          263:  WriteBufferImmediate (26)
+DRED:          264:  ResourceBarrier (15)
+DRED:          265:  WriteBufferImmediate (26)
+DRED:          266:  WriteBufferImmediate (26)
+DRED:          267: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  44] [000001813827F2F0 Default] RenderCascade2' [0000019E6F314A20] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 879 / 879
+DRED:        History:
+DRED:          871:  DrawIndexedInstanced (4)
+DRED:          872:  DrawIndexedInstanced (4)
+DRED:          873:  DrawIndexedInstanced (4)
+DRED:          874:  DrawIndexedInstanced (4)
+DRED:          875:  WriteBufferImmediate (26)
+DRED:          876:  ResourceBarrier (15)
+DRED:          877:  WriteBufferImmediate (26)
+DRED:          878:  WriteBufferImmediate (26)
+DRED:          879: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  45] [000001815FCFBB80 Default] RenderLocalShadows0' [000001A06A63A3C0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 77 / 77
+DRED:        History:
+DRED:          69:  ResourceBarrier (15)
+DRED:          70:  Dispatch (6)
+DRED:          71:  ResourceBarrier (15)
+DRED:          72:  Dispatch (6)
+DRED:          73:  WriteBufferImmediate (26)
+DRED:          74:  ResourceBarrier (15)
+DRED:          75:  WriteBufferImmediate (26)
+DRED:          76:  WriteBufferImmediate (26)
+DRED:          77: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  46] [0000018139DF21B0 Default] RenderLocalShadows1' [0000019E19AEC030] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  47] [000001815FCFB520 Default] Lighting' [000001A069DC1520] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 261 / 261
+DRED:        History:
+DRED:          253:  ResourceBarrier (15)
+DRED:          254:  CopyBufferRegion (7)
+DRED:          255:  ResourceBarrier (15)
+DRED:          256:  DrawInstanced (3)
+DRED:          257:  WriteBufferImmediate (26)
+DRED:          258:  ResourceBarrier (15)
+DRED:          259:  WriteBufferImmediate (26)
+DRED:          260:  WriteBufferImmediate (26)
+DRED:          261: *CopyBufferRegion (7)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  48] [000001815FCFAEC0 Default] DecoupledParticleLighting' [000001A06A513340] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 38 / 38
+DRED:        History:
+DRED:          30:  WriteBufferImmediate (26)
+DRED:          31:  WriteBufferImmediate (26)
+DRED:          32:  ExecuteIndirect (5)
+DRED:          33:  WriteBufferImmediate (26)
+DRED:          34:  WriteBufferImmediate (26)
+DRED:          35:  ResourceBarrier (15)
+DRED:          36:  WriteBufferImmediate (26)
+DRED:          37:  WriteBufferImmediate (26)
+DRED:          38: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  49] [000001814F5040B0 Default] Skin_Post_and_Forward_Opaque' [000001A032111C50] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 74 / 74
+DRED:        History:
+DRED:          66:  ResourceBarrier (15)
+DRED:          67:  DrawInstanced (3)
+DRED:          68:  ResourceBarrier (15)
+DRED:          69:  ResourceBarrier (15)
+DRED:          70:  WriteBufferImmediate (26)
+DRED:          71:  ResourceBarrier (15)
+DRED:          72:  WriteBufferImmediate (26)
+DRED:          73:  WriteBufferImmediate (26)
+DRED:          74: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  50] [000001815FCFA200 Default] HologramDepth_and_Distortion' [0000019FB886E1A0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 122 / 122
+DRED:        History:
+DRED:          114:  ExecuteIndirect (5)
+DRED:          115:  ExecuteIndirect (5)
+DRED:          116:  ResourceBarrier (15)
+DRED:          117:  ExecuteIndirect (5)
+DRED:          118:  WriteBufferImmediate (26)
+DRED:          119:  ResourceBarrier (15)
+DRED:          120:  WriteBufferImmediate (26)
+DRED:          121:  WriteBufferImmediate (26)
+DRED:          122: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  51] [0000018159909080 Default] Transparents' [000001A069DC0700] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 293 / 293
+DRED:        History:
+DRED:          285:  DrawIndexedInstanced (4)
+DRED:          286:  DrawIndexedInstanced (4)
+DRED:          287:  ResourceBarrier (15)
+DRED:          288:  CopyBufferRegion (7)
+DRED:          289:  WriteBufferImmediate (26)
+DRED:          290:  ResourceBarrier (15)
+DRED:          291:  WriteBufferImmediate (26)
+DRED:          292:  WriteBufferImmediate (26)
+DRED:          293: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  52] [000001814EBBB640 Default] Transparents_WeaponAndScreen' [000001A0674FB1A0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  53] [000001812DF54EF0 Default] TXAA_Blurs' [000001A04CBCF2F0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 31 / 31
+DRED:        History:
+DRED:          23:  ResourceBarrier (15)
+DRED:          24:  Dispatch (6)
+DRED:          25:  ResourceBarrier (15)
+DRED:          26:  CopyResource (9)
+DRED:          27:  WriteBufferImmediate (26)
+DRED:          28:  ResourceBarrier (15)
+DRED:          29:  WriteBufferImmediate (26)
+DRED:          30:  WriteBufferImmediate (26)
+DRED:          31: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  54] [0000018142E59240 Default] DoF_MotionBlur' [000001A032676840] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 8 / 8
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  Dispatch (6)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  Dispatch (6)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  ResourceBarrier (15)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7:  WriteBufferImmediate (26)
+DRED:          8: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  55] [00000181687374E0 Default] Forward_NoTXAA' [000001A0323A6E60] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 9 / 9
+DRED:        History:
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  ResourceBarrier (15)
+DRED:          4:  CopyTextureRegion (8)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  ResourceBarrier (15)
+DRED:          7:  WriteBufferImmediate (26)
+DRED:          8:  WriteBufferImmediate (26)
+DRED:          9: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  56] [0000018159361E90 Default] PostFX' [0000019E78A6C510] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 137 / 137
+DRED:        History:
+DRED:          129:  ResourceBarrier (15)
+DRED:          130:  ResourceBarrier (15)
+DRED:          131:  ExecuteIndirect (5)
+DRED:          132:  ExecuteIndirect (5)
+DRED:          133:  WriteBufferImmediate (26)
+DRED:          134:  ResourceBarrier (15)
+DRED:          135:  WriteBufferImmediate (26)
+DRED:          136:  WriteBufferImmediate (26)
+DRED:          137: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  57] [00000181364CF710 Default] RenderFinal2D' [000001A032553000] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 7 / 7
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  ResourceBarrier (15)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7204:  58] [000001812F7E3DA0 Default] EndRender' [000001A04FB52CE0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 4 / 4
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4: *SetMarker (0)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   1] [000001813812A6C0 Default] <<-merge [000001815827F360 Default] FrameTick' [000001A0190BE8D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   2] [000001815827F360 Default] FrameTick' [000001A05648CFB0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 8 / 8
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResolveQueryData (18)
+DRED:          3:  CopyBufferRegion (7)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7:  WriteBufferImmediate (26)
+DRED:          8: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   3] [000001814DEFAFE0 Default] UpdateGlyphCacheTexture' [000001A0494F53E0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *Dispatch (6)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   4] [0000018152465200 Default] ProcessDrawBuffer' [000001A0494F45C0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 16 / 16
+DRED:        History:
+DRED:          8 :  DrawIndexedInstanced (4)
+DRED:          9 :  DrawIndexedInstanced (4)
+DRED:          10:  DrawIndexedInstanced (4)
+DRED:          11:  DrawInstanced (3)
+DRED:          12:  DrawInstanced (3)
+DRED:          13:  WriteBufferImmediate (26)
+DRED:          14:  WriteBufferImmediate (26)
+DRED:          15:  WriteBufferImmediate (26)
+DRED:          16: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   5] [000001812B0C38A0 Default] ProcessDrawBuffer' [000001A06E6458A0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 7 / 7
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  ResourceBarrier (15)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   6] [0000018139DF1AE0 Default] ProcessDrawBuffer' [000001A069CB2FE0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 13 / 13
+DRED:        History:
+DRED:          5 :  DrawInstanced (3)
+DRED:          6 :  ClearRenderTargetView (12)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  DrawInstanced (3)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  ResourceBarrier (15)
+DRED:          11:  WriteBufferImmediate (26)
+DRED:          12:  WriteBufferImmediate (26)
+DRED:          13: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   7] [000001812D4EB850 Default] ProcessDrawBuffer' [0000019FB7A41C70] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 13 / 13
+DRED:        History:
+DRED:          5 :  DrawInstanced (3)
+DRED:          6 :  ClearRenderTargetView (12)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  DrawInstanced (3)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  ResourceBarrier (15)
+DRED:          11:  WriteBufferImmediate (26)
+DRED:          12:  WriteBufferImmediate (26)
+DRED:          13: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   8] [0000018134D3BC90 Default] ProcessDrawBuffer' [000001A032113890] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 13 / 13
+DRED:        History:
+DRED:          5 :  DrawInstanced (3)
+DRED:          6 :  ClearRenderTargetView (12)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  DrawInstanced (3)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  ResourceBarrier (15)
+DRED:          11:  WriteBufferImmediate (26)
+DRED:          12:  WriteBufferImmediate (26)
+DRED:          13: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:   9] [000001815684D460 Default] ProcessDrawBuffer' [000001A041275740] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 13 / 13
+DRED:        History:
+DRED:          5 :  DrawInstanced (3)
+DRED:          6 :  ClearRenderTargetView (12)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  DrawInstanced (3)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  ResourceBarrier (15)
+DRED:          11:  WriteBufferImmediate (26)
+DRED:          12:  WriteBufferImmediate (26)
+DRED:          13: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  10] [00000181549BAD00 Default] ProcessDrawBuffer' [000001A06E610FC0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  ResourceBarrier (15)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *ClearRenderTargetView (12)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  11] [0000018152B182C0 Default] ProcessDrawBuffer' [0000019FB886EFC0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 7 / 7
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  ResourceBarrier (15)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  12] [000001814CD06120 Default] ProcessDrawBuffer' [000001A058A83640] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 26 / 26
+DRED:        History:
+DRED:          18:  DrawInstanced (3)
+DRED:          19:  DrawInstanced (3)
+DRED:          20:  DrawInstanced (3)
+DRED:          21:  DrawInstanced (3)
+DRED:          22:  DrawInstanced (3)
+DRED:          23:  WriteBufferImmediate (26)
+DRED:          24:  WriteBufferImmediate (26)
+DRED:          25:  WriteBufferImmediate (26)
+DRED:          26: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  13] [0000018147775AA0 Default] ProcessDrawBuffer' [000001A055AB69B0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  ResourceBarrier (15)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *ClearRenderTargetView (12)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  14] [00000181374C3D20 Default] ProcessDrawBuffer' [000001A06E646DD0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *ClearRenderTargetView (12)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  15] [0000018133B079C0 Default] <<-merge [000001814BB72500 Default] StorageData' [000001A032550CB0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 4 / 4
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  16] [000001814BB72500 Default] StorageData' [000001A04FB533F0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  17] [00000181390CA020 Default] StartRender' [0000019FB886E8B0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  18] [000001815972B1A0 Default] WindUpdateAndRainMap' [000001A04FB4FB70] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 157 / 157
+DRED:        History:
+DRED:          149:  DrawIndexedInstanced (4)
+DRED:          150:  DrawIndexedInstanced (4)
+DRED:          151:  DrawIndexedInstanced (4)
+DRED:          152:  DrawIndexedInstanced (4)
+DRED:          153:  WriteBufferImmediate (26)
+DRED:          154:  ResourceBarrier (15)
+DRED:          155:  WriteBufferImmediate (26)
+DRED:          156:  WriteBufferImmediate (26)
+DRED:          157: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  19] [000001814CAD9F10 Default] RenderPrep' [000001A03233D870] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 11 / 11
+DRED:        History:
+DRED:          3 :  CopyBufferRegion (7)
+DRED:          4 :  CopyBufferRegion (7)
+DRED:          5 :  CopyBufferRegion (7)
+DRED:          6 :  CopyBufferRegion (7)
+DRED:          7 :  WriteBufferImmediate (26)
+DRED:          8 :  ResourceBarrier (15)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  WriteBufferImmediate (26)
+DRED:          11: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  20] [000001814F4FEE90 Default] PrepareGloballyAccessibleSystems' [000001A03233E690] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 49 / 49
+DRED:        History:
+DRED:          41:  DrawIndexedInstanced (4)
+DRED:          42:  DrawIndexedInstanced (4)
+DRED:          43:  WriteBufferImmediate (26)
+DRED:          44:  ResourceBarrier (15)
+DRED:          45:  CopyBufferRegion (7)
+DRED:          46:  WriteBufferImmediate (26)
+DRED:          47:  WriteBufferImmediate (26)
+DRED:          48:  WriteBufferImmediate (26)
+DRED:          49: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  21] [0000018146F00CB0 Default] <<-merge [000001814FBBD9A0 Default] DepthPrepass' [0000019E1A9F1A50] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  22] [000001814FBBD9A0 Default] DepthPrepass' [0000019E19AED560] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 541 / 541
+DRED:        History:
+DRED:          533:  DrawIndexedInstanced (4)
+DRED:          534:  DrawIndexedInstanced (4)
+DRED:          535:  DrawIndexedInstanced (4)
+DRED:          536:  DrawIndexedInstanced (4)
+DRED:          537:  WriteBufferImmediate (26)
+DRED:          538:  ResourceBarrier (15)
+DRED:          539:  WriteBufferImmediate (26)
+DRED:          540:  WriteBufferImmediate (26)
+DRED:          541: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  23] [000001814FE5D480 Default] GBufferEarly_Velocity_Weapon' [0000019E1F188530] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  ClearRenderTargetView (12)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *ClearRenderTargetView (12)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  24] [00000181527EABB0 Default] GBuffer_Solid' [000001A032112A70] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 184 / 184
+DRED:        History:
+DRED:          176:  DrawIndexedInstanced (4)
+DRED:          177:  DrawIndexedInstanced (4)
+DRED:          178:  DrawIndexedInstanced (4)
+DRED:          179:  DrawIndexedInstanced (4)
+DRED:          180:  WriteBufferImmediate (26)
+DRED:          181:  ResourceBarrier (15)
+DRED:          182:  WriteBufferImmediate (26)
+DRED:          183:  WriteBufferImmediate (26)
+DRED:          184: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  25] [000001816003C040 Default] GBuffer_Solid' [000001A06A5101D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 135 / 135
+DRED:        History:
+DRED:          127:  DrawIndexedInstanced (4)
+DRED:          128:  DrawIndexedInstanced (4)
+DRED:          129:  DrawIndexedInstanced (4)
+DRED:          130:  DrawIndexedInstanced (4)
+DRED:          131:  WriteBufferImmediate (26)
+DRED:          132:  ResourceBarrier (15)
+DRED:          133:  WriteBufferImmediate (26)
+DRED:          134:  WriteBufferImmediate (26)
+DRED:          135: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  26] [000001814EC64650 Default] GBuffer_Solid' [0000019E1A9EEFF0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 173 / 173
+DRED:        History:
+DRED:          165:  DrawIndexedInstanced (4)
+DRED:          166:  DrawIndexedInstanced (4)
+DRED:          167:  DrawIndexedInstanced (4)
+DRED:          168:  DrawIndexedInstanced (4)
+DRED:          169:  WriteBufferImmediate (26)
+DRED:          170:  ResourceBarrier (15)
+DRED:          171:  WriteBufferImmediate (26)
+DRED:          172:  WriteBufferImmediate (26)
+DRED:          173: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  27] [00000181460D9000 Default] GBuffer_Solid' [0000019FB8870C00] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 220 / 220
+DRED:        History:
+DRED:          212:  DrawIndexedInstanced (4)
+DRED:          213:  DrawIndexedInstanced (4)
+DRED:          214:  DrawIndexedInstanced (4)
+DRED:          215:  DrawIndexedInstanced (4)
+DRED:          216:  WriteBufferImmediate (26)
+DRED:          217:  ResourceBarrier (15)
+DRED:          218:  WriteBufferImmediate (26)
+DRED:          219:  WriteBufferImmediate (26)
+DRED:          220: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  28] [000001814E29A500 Default] GBuffer_Solid' [000001A056489E40] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 232 / 232
+DRED:        History:
+DRED:          224:  DrawIndexedInstanced (4)
+DRED:          225:  DrawIndexedInstanced (4)
+DRED:          226:  DrawIndexedInstanced (4)
+DRED:          227:  DrawIndexedInstanced (4)
+DRED:          228:  WriteBufferImmediate (26)
+DRED:          229:  ResourceBarrier (15)
+DRED:          230:  WriteBufferImmediate (26)
+DRED:          231:  WriteBufferImmediate (26)
+DRED:          232: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  29] [000001814D6F2DE0 Default] GBuffer_Solid' [0000019FC2C9D610] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 282 / 282
+DRED:        History:
+DRED:          274:  DrawIndexedInstanced (4)
+DRED:          275:  DrawIndexedInstanced (4)
+DRED:          276:  DrawIndexedInstanced (4)
+DRED:          277:  DrawIndexedInstanced (4)
+DRED:          278:  WriteBufferImmediate (26)
+DRED:          279:  ResourceBarrier (15)
+DRED:          280:  WriteBufferImmediate (26)
+DRED:          281:  WriteBufferImmediate (26)
+DRED:          282: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  30] [0000018148F71810 Default] GBuffer_Solid' [0000019E78A6CC20] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 311 / 311
+DRED:        History:
+DRED:          303:  DrawIndexedInstanced (4)
+DRED:          304:  DrawIndexedInstanced (4)
+DRED:          305:  DrawIndexedInstanced (4)
+DRED:          306:  DrawIndexedInstanced (4)
+DRED:          307:  WriteBufferImmediate (26)
+DRED:          308:  ResourceBarrier (15)
+DRED:          309:  WriteBufferImmediate (26)
+DRED:          310:  WriteBufferImmediate (26)
+DRED:          311: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  31] [00000181389E0B80 Default] GBuffer_Solid' [0000019FC2C9CF00] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 311 / 311
+DRED:        History:
+DRED:          303:  DrawIndexedInstanced (4)
+DRED:          304:  DrawIndexedInstanced (4)
+DRED:          305:  DrawIndexedInstanced (4)
+DRED:          306:  DrawIndexedInstanced (4)
+DRED:          307:  DrawIndexedInstanced (4)
+DRED:          308:  WriteBufferImmediate (26)
+DRED:          309:  WriteBufferImmediate (26)
+DRED:          310:  WriteBufferImmediate (26)
+DRED:          311: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  32] [000001812BD37500 Compute] AsyncWater' [000001A0323A7570] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478BB40]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *CopyBufferRegion (7)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  33] [0000018139BBEA00 Default] <<-merge [0000018168729D60 Default] GBuffer_Discard' [000001A0322F9660] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  34] [0000018168729D60 Default] GBuffer_Discard' [000001A032110010] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 271 / 271
+DRED:        History:
+DRED:          263:  DrawIndexedInstanced (4)
+DRED:          264:  DrawIndexedInstanced (4)
+DRED:          265:  DrawIndexedInstanced (4)
+DRED:          266:  DrawIndexedInstanced (4)
+DRED:          267:  WriteBufferImmediate (26)
+DRED:          268:  ResourceBarrier (15)
+DRED:          269:  WriteBufferImmediate (26)
+DRED:          270:  WriteBufferImmediate (26)
+DRED:          271: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  35] [000001814646C550 Default] GBufferVelocity_Solid' [000001A0674FAA90] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 131 / 131
+DRED:        History:
+DRED:          123:  DrawIndexedInstanced (4)
+DRED:          124:  DrawIndexedInstanced (4)
+DRED:          125:  DrawIndexedInstanced (4)
+DRED:          126:  DrawIndexedInstanced (4)
+DRED:          127:  WriteBufferImmediate (26)
+DRED:          128:  ResourceBarrier (15)
+DRED:          129:  WriteBufferImmediate (26)
+DRED:          130:  WriteBufferImmediate (26)
+DRED:          131: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  36] [00000181687362E0 Default] GBufferVelocity_Discard' [000001A06A61A360] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 124 / 124
+DRED:        History:
+DRED:          116:  DrawIndexedInstanced (4)
+DRED:          117:  DrawIndexedInstanced (4)
+DRED:          118:  DrawIndexedInstanced (4)
+DRED:          119:  DrawIndexedInstanced (4)
+DRED:          120:  WriteBufferImmediate (26)
+DRED:          121:  ResourceBarrier (15)
+DRED:          122:  WriteBufferImmediate (26)
+DRED:          123:  WriteBufferImmediate (26)
+DRED:          124: *ExecuteIndirect (5)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  37] [00000181427AAE30 Default] DeferredDecals' [000001A06734FDC0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 516 / 516
+DRED:        History:
+DRED:          508:  DrawIndexedInstanced (4)
+DRED:          509:  DrawIndexedInstanced (4)
+DRED:          510:  DrawIndexedInstanced (4)
+DRED:          511:  DrawIndexedInstanced (4)
+DRED:          512:  WriteBufferImmediate (26)
+DRED:          513:  ResourceBarrier (15)
+DRED:          514:  WriteBufferImmediate (26)
+DRED:          515:  WriteBufferImmediate (26)
+DRED:          516: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  38] [000001812D74FBF0 Default] Hair_Opaque' [000001A04CBD1D50] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 33 / 33
+DRED:        History:
+DRED:          25:  DrawIndexedInstanced (4)
+DRED:          26:  DrawIndexedInstanced (4)
+DRED:          27:  DrawIndexedInstanced (4)
+DRED:          28:  DrawIndexedInstanced (4)
+DRED:          29:  WriteBufferImmediate (26)
+DRED:          30:  ResourceBarrier (15)
+DRED:          31:  WriteBufferImmediate (26)
+DRED:          32:  WriteBufferImmediate (26)
+DRED:          33: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  39] [000001813790CF50 Default] PostGBufferOverrides' [000001A06A619540] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 47 / 47
+DRED:        History:
+DRED:          39:  ResourceBarrier (15)
+DRED:          40:  Dispatch (6)
+DRED:          41:  ResourceBarrier (15)
+DRED:          42:  Dispatch (6)
+DRED:          43:  WriteBufferImmediate (26)
+DRED:          44:  ResourceBarrier (15)
+DRED:          45:  WriteBufferImmediate (26)
+DRED:          46:  WriteBufferImmediate (26)
+DRED:          47: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  40] [00000181533B9CE0 Default] GenerateDynamicTextures' [000001A0674F9C70] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *CopyBufferRegion (7)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  41] [00000181533B1DF0 Default] RenderDistantShadows' [0000019E6F316660] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 141 / 141
+DRED:        History:
+DRED:          133:  DrawIndexedInstanced (4)
+DRED:          134:  DrawIndexedInstanced (4)
+DRED:          135:  DrawIndexedInstanced (4)
+DRED:          136:  DrawIndexedInstanced (4)
+DRED:          137:  WriteBufferImmediate (26)
+DRED:          138:  ResourceBarrier (15)
+DRED:          139:  WriteBufferImmediate (26)
+DRED:          140:  WriteBufferImmediate (26)
+DRED:          141: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  42] [0000018155468DB0 Default] RenderCascade0' [000001A032675A20] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 150 / 150
+DRED:        History:
+DRED:          142:  ExecuteIndirect (5)
+DRED:          143:  ExecuteIndirect (5)
+DRED:          144:  ExecuteIndirect (5)
+DRED:          145:  ExecuteIndirect (5)
+DRED:          146:  WriteBufferImmediate (26)
+DRED:          147:  ResourceBarrier (15)
+DRED:          148:  WriteBufferImmediate (26)
+DRED:          149:  WriteBufferImmediate (26)
+DRED:          150: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  43] [000001812B736AF0 Default] RenderCascade1' [000001A0323A8AA0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 266 / 266
+DRED:        History:
+DRED:          258:  ExecuteIndirect (5)
+DRED:          259:  ExecuteIndirect (5)
+DRED:          260:  ExecuteIndirect (5)
+DRED:          261:  ExecuteIndirect (5)
+DRED:          262:  WriteBufferImmediate (26)
+DRED:          263:  ResourceBarrier (15)
+DRED:          264:  WriteBufferImmediate (26)
+DRED:          265:  WriteBufferImmediate (26)
+DRED:          266: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  44] [000001814F505A30 Default] RenderCascade2' [000001A02887CBB0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 877 / 877
+DRED:        History:
+DRED:          869:  DrawIndexedInstanced (4)
+DRED:          870:  DrawIndexedInstanced (4)
+DRED:          871:  DrawIndexedInstanced (4)
+DRED:          872:  DrawIndexedInstanced (4)
+DRED:          873:  WriteBufferImmediate (26)
+DRED:          874:  ResourceBarrier (15)
+DRED:          875:  WriteBufferImmediate (26)
+DRED:          876:  WriteBufferImmediate (26)
+DRED:          877: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  45] [0000018150D823C0 Default] RenderLocalShadows0' [0000019E78A928F0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 77 / 77
+DRED:        History:
+DRED:          69:  ResourceBarrier (15)
+DRED:          70:  Dispatch (6)
+DRED:          71:  ResourceBarrier (15)
+DRED:          72:  Dispatch (6)
+DRED:          73:  WriteBufferImmediate (26)
+DRED:          74:  ResourceBarrier (15)
+DRED:          75:  WriteBufferImmediate (26)
+DRED:          76:  WriteBufferImmediate (26)
+DRED:          77: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  46] [000001814F504D70 Default] RenderLocalShadows1' [000001A06734F6B0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  47] [000001814631DC90 Default] Lighting' [000001A06268A9B0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 261 / 261
+DRED:        History:
+DRED:          253:  ResourceBarrier (15)
+DRED:          254:  CopyBufferRegion (7)
+DRED:          255:  ResourceBarrier (15)
+DRED:          256:  DrawInstanced (3)
+DRED:          257:  WriteBufferImmediate (26)
+DRED:          258:  ResourceBarrier (15)
+DRED:          259:  WriteBufferImmediate (26)
+DRED:          260:  WriteBufferImmediate (26)
+DRED:          261: *ExecuteIndirect (5)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  48] [000001814CDD3060 Default] DecoupledParticleLighting' [0000019E78A93710] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 38 / 38
+DRED:        History:
+DRED:          30:  WriteBufferImmediate (26)
+DRED:          31:  WriteBufferImmediate (26)
+DRED:          32:  ExecuteIndirect (5)
+DRED:          33:  WriteBufferImmediate (26)
+DRED:          34:  WriteBufferImmediate (26)
+DRED:          35:  ResourceBarrier (15)
+DRED:          36:  WriteBufferImmediate (26)
+DRED:          37:  WriteBufferImmediate (26)
+DRED:          38: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  49] [000001815F9BDCC0 Default] Skin_Post_and_Forward_Opaque' [000001A069F7AB30] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 74 / 74
+DRED:        History:
+DRED:          66:  ResourceBarrier (15)
+DRED:          67:  DrawInstanced (3)
+DRED:          68:  ResourceBarrier (15)
+DRED:          69:  ResourceBarrier (15)
+DRED:          70:  WriteBufferImmediate (26)
+DRED:          71:  ResourceBarrier (15)
+DRED:          72:  WriteBufferImmediate (26)
+DRED:          73:  WriteBufferImmediate (26)
+DRED:          74: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  50] [000001814F503A50 Default] HologramDepth_and_Distortion' [0000019E6FAD1FD0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 122 / 122
+DRED:        History:
+DRED:          114:  ExecuteIndirect (5)
+DRED:          115:  ExecuteIndirect (5)
+DRED:          116:  ResourceBarrier (15)
+DRED:          117:  ExecuteIndirect (5)
+DRED:          118:  WriteBufferImmediate (26)
+DRED:          119:  ResourceBarrier (15)
+DRED:          120:  WriteBufferImmediate (26)
+DRED:          121:  WriteBufferImmediate (26)
+DRED:          122: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  51] [000001814D222DD0 Default] Transparents' [0000019E6CD08AF0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 292 / 292
+DRED:        History:
+DRED:          284:  DrawIndexedInstanced (4)
+DRED:          285:  DrawIndexedInstanced (4)
+DRED:          286:  ResourceBarrier (15)
+DRED:          287:  CopyBufferRegion (7)
+DRED:          288:  WriteBufferImmediate (26)
+DRED:          289:  ResourceBarrier (15)
+DRED:          290:  WriteBufferImmediate (26)
+DRED:          291:  WriteBufferImmediate (26)
+DRED:          292: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  52] [00000181599096E0 Default] Transparents_WeaponAndScreen' [000001A04FB51EC0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  53] [000001814CAE0C00 Default] TXAA_Blurs' [000001A069DC1C30] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 31 / 31
+DRED:        History:
+DRED:          23:  ResourceBarrier (15)
+DRED:          24:  Dispatch (6)
+DRED:          25:  ResourceBarrier (15)
+DRED:          26:  CopyResource (9)
+DRED:          27:  WriteBufferImmediate (26)
+DRED:          28:  ResourceBarrier (15)
+DRED:          29:  WriteBufferImmediate (26)
+DRED:          30:  WriteBufferImmediate (26)
+DRED:          31: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  54] [000001814BE6C6E0 Default] DoF_MotionBlur' [000001A05912A2D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 8 / 8
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  Dispatch (6)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  Dispatch (6)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  ResourceBarrier (15)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7:  WriteBufferImmediate (26)
+DRED:          8: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  55] [0000018159652220 Default] Forward_NoTXAA' [000001A02887A150] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 9 / 9
+DRED:        History:
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  ResourceBarrier (15)
+DRED:          4:  CopyTextureRegion (8)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  ResourceBarrier (15)
+DRED:          7:  WriteBufferImmediate (26)
+DRED:          8:  WriteBufferImmediate (26)
+DRED:          9: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  56] [000001814CAE05A0 Default] PostFX' [000001A06734DA70] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 140 / 140
+DRED:        History:
+DRED:          132:  ResourceBarrier (15)
+DRED:          133:  ResourceBarrier (15)
+DRED:          134:  ExecuteIndirect (5)
+DRED:          135:  ExecuteIndirect (5)
+DRED:          136:  WriteBufferImmediate (26)
+DRED:          137:  ResourceBarrier (15)
+DRED:          138:  WriteBufferImmediate (26)
+DRED:          139:  WriteBufferImmediate (26)
+DRED:          140: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  57] [000001814FFA07E0 Default] RenderFinal2D' [000001A06E6466C0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 7 / 7
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  ResourceBarrier (15)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7205:  58] [000001814F50D4F0 Default] EndRender' [000001A04106F7D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 4 / 4
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   1] [00000181464AFBE0 Default] <<-merge [000001813603DF20 Default] FrameTick' [000001A06A638070] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   2] [000001813603DF20 Default] FrameTick' [000001A04EED3850] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 8 / 8
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResolveQueryData (18)
+DRED:          3:  CopyBufferRegion (7)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7:  WriteBufferImmediate (26)
+DRED:          8: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   3] [00000181524618F0 Default] UpdateGlyphCacheTexture' [000001A058A29F60] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   4] [0000018129D20970 Default] ProcessDrawBuffer' [000001A04106E2A0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 16 / 16
+DRED:        History:
+DRED:          8 :  DrawIndexedInstanced (4)
+DRED:          9 :  DrawIndexedInstanced (4)
+DRED:          10:  DrawIndexedInstanced (4)
+DRED:          11:  DrawInstanced (3)
+DRED:          12:  DrawInstanced (3)
+DRED:          13:  WriteBufferImmediate (26)
+DRED:          14:  WriteBufferImmediate (26)
+DRED:          15:  WriteBufferImmediate (26)
+DRED:          16: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   5] [000001814E9E7F80 Default] ProcessDrawBuffer' [000001A058A867B0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 7 / 7
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  ResourceBarrier (15)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   6] [0000018156D36950 Default] ProcessDrawBuffer' [000001A032113180] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 13 / 13
+DRED:        History:
+DRED:          5 :  DrawInstanced (3)
+DRED:          6 :  ClearRenderTargetView (12)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  DrawInstanced (3)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  ResourceBarrier (15)
+DRED:          11:  WriteBufferImmediate (26)
+DRED:          12:  WriteBufferImmediate (26)
+DRED:          13: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   7] [00000181472E77E0 Default] ProcessDrawBuffer' [000001A069F7A420] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 13 / 13
+DRED:        History:
+DRED:          5 :  DrawInstanced (3)
+DRED:          6 :  ClearRenderTargetView (12)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  DrawInstanced (3)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  ResourceBarrier (15)
+DRED:          11:  WriteBufferImmediate (26)
+DRED:          12:  WriteBufferImmediate (26)
+DRED:          13: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   8] [000001814EA85C80 Default] ProcessDrawBuffer' [000001A032675310] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 13 / 13
+DRED:        History:
+DRED:          5 :  DrawInstanced (3)
+DRED:          6 :  ClearRenderTargetView (12)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  DrawInstanced (3)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  ResourceBarrier (15)
+DRED:          11:  WriteBufferImmediate (26)
+DRED:          12:  WriteBufferImmediate (26)
+DRED:          13: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:   9] [000001813700FC80 Default] ProcessDrawBuffer' [000001A02887A860] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 13 / 13
+DRED:        History:
+DRED:          5 :  DrawInstanced (3)
+DRED:          6 :  ClearRenderTargetView (12)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  DrawInstanced (3)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  ResourceBarrier (15)
+DRED:          11:  WriteBufferImmediate (26)
+DRED:          12:  WriteBufferImmediate (26)
+DRED:          13: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  10] [000001812EC7AAD0 Default] ProcessDrawBuffer' [000001A05648AC60] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  ResourceBarrier (15)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *ClearRenderTargetView (12)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  11] [0000018160F8C5D0 Default] ProcessDrawBuffer' [000001A0190BF6F0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 7 / 7
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  ResourceBarrier (15)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  12] [000001815CABDED0 Default] ProcessDrawBuffer' [000001A02887C4A0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 26 / 26
+DRED:        History:
+DRED:          18:  DrawInstanced (3)
+DRED:          19:  DrawInstanced (3)
+DRED:          20:  DrawInstanced (3)
+DRED:          21:  DrawInstanced (3)
+DRED:          22:  DrawInstanced (3)
+DRED:          23:  WriteBufferImmediate (26)
+DRED:          24:  WriteBufferImmediate (26)
+DRED:          25:  WriteBufferImmediate (26)
+DRED:          26: *Dispatch (6)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  13] [000001814DECFAA0 Default] ProcessDrawBuffer' [0000019E19AEB920] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  ResourceBarrier (15)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  14] [0000018168EE5160 Default] ProcessDrawBuffer' [000001A06A61AA70] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ClearRenderTargetView (12)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  15] [00000181481A8050 Default] <<-merge [0000018159670CE0 Default] StorageData' [000001A032110E30] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 4 / 4
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  16] [0000018159670CE0 Default] StorageData' [000001A06A628E60] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  17] [000001814E7351C0 Default] StartRender' [000001A02887D2C0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *CopyBufferRegion (7)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  18] [0000018149C7CD20 Default] WindUpdateAndRainMap' [0000019E78A93000] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 256 / 256
+DRED:        History:
+DRED:          248:  DrawIndexedInstanced (4)
+DRED:          249:  DrawIndexedInstanced (4)
+DRED:          250:  DrawIndexedInstanced (4)
+DRED:          251:  DrawIndexedInstanced (4)
+DRED:          252:  WriteBufferImmediate (26)
+DRED:          253:  ResourceBarrier (15)
+DRED:          254:  WriteBufferImmediate (26)
+DRED:          255:  WriteBufferImmediate (26)
+DRED:          256: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  19] [00000181533B8C60 Default] RenderPrep' [000001A04106F0C0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 11 / 11
+DRED:        History:
+DRED:          3 :  CopyBufferRegion (7)
+DRED:          4 :  CopyBufferRegion (7)
+DRED:          5 :  CopyBufferRegion (7)
+DRED:          6 :  CopyBufferRegion (7)
+DRED:          7 :  WriteBufferImmediate (26)
+DRED:          8 :  ResourceBarrier (15)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10:  WriteBufferImmediate (26)
+DRED:          11: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  20] [00000181480A6840 Default] PrepareGloballyAccessibleSystems' [0000019E6FAD26E0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 49 / 49
+DRED:        History:
+DRED:          41:  DrawIndexedInstanced (4)
+DRED:          42:  DrawIndexedInstanced (4)
+DRED:          43:  WriteBufferImmediate (26)
+DRED:          44:  ResourceBarrier (15)
+DRED:          45:  CopyBufferRegion (7)
+DRED:          46:  WriteBufferImmediate (26)
+DRED:          47:  WriteBufferImmediate (26)
+DRED:          48:  WriteBufferImmediate (26)
+DRED:          49: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  21] [000001812E3E7750 Default] <<-merge [000001815FD85A30 Default] DepthPrepass' [000001A02887AF70] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  22] [000001815FD85A30 Default] DepthPrepass' [0000019E19AF0750] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 541 / 541
+DRED:        History:
+DRED:          533:  DrawIndexedInstanced (4)
+DRED:          534:  DrawIndexedInstanced (4)
+DRED:          535:  DrawIndexedInstanced (4)
+DRED:          536:  DrawIndexedInstanced (4)
+DRED:          537:  WriteBufferImmediate (26)
+DRED:          538:  ResourceBarrier (15)
+DRED:          539:  WriteBufferImmediate (26)
+DRED:          540:  WriteBufferImmediate (26)
+DRED:          541: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  23] [0000018166181D10 Default] GBufferEarly_Velocity_Weapon' [000001A032673DE0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 6 / 6
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  ClearRenderTargetView (12)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6: *ClearRenderTargetView (12)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  24] [000001814E5993E0 Default] GBuffer_Solid' [000001A02887BD90] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 183 / 183
+DRED:        History:
+DRED:          175:  DrawIndexedInstanced (4)
+DRED:          176:  DrawIndexedInstanced (4)
+DRED:          177:  DrawIndexedInstanced (4)
+DRED:          178:  DrawIndexedInstanced (4)
+DRED:          179:  WriteBufferImmediate (26)
+DRED:          180:  ResourceBarrier (15)
+DRED:          181:  WriteBufferImmediate (26)
+DRED:          182:  WriteBufferImmediate (26)
+DRED:          183: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  25] [000001814DF28630 Default] GBuffer_Solid' [0000019FB886F6D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 135 / 135
+DRED:        History:
+DRED:          127:  DrawIndexedInstanced (4)
+DRED:          128:  DrawIndexedInstanced (4)
+DRED:          129:  DrawIndexedInstanced (4)
+DRED:          130:  DrawIndexedInstanced (4)
+DRED:          131:  WriteBufferImmediate (26)
+DRED:          132:  ResourceBarrier (15)
+DRED:          133:  WriteBufferImmediate (26)
+DRED:          134:  WriteBufferImmediate (26)
+DRED:          135: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  26] [0000018133E65100 Default] GBuffer_Solid' [0000019AC06379F0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 174 / 174
+DRED:        History:
+DRED:          166:  DrawIndexedInstanced (4)
+DRED:          167:  DrawIndexedInstanced (4)
+DRED:          168:  DrawIndexedInstanced (4)
+DRED:          169:  DrawIndexedInstanced (4)
+DRED:          170:  WriteBufferImmediate (26)
+DRED:          171:  ResourceBarrier (15)
+DRED:          172:  WriteBufferImmediate (26)
+DRED:          173:  WriteBufferImmediate (26)
+DRED:          174: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  27] [00000181617D7230 Default] GBuffer_Solid' [000001A06E60FA90] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 217 / 217
+DRED:        History:
+DRED:          209:  DrawIndexedInstanced (4)
+DRED:          210:  DrawIndexedInstanced (4)
+DRED:          211:  DrawIndexedInstanced (4)
+DRED:          212:  DrawIndexedInstanced (4)
+DRED:          213:  WriteBufferImmediate (26)
+DRED:          214:  ResourceBarrier (15)
+DRED:          215:  WriteBufferImmediate (26)
+DRED:          216:  WriteBufferImmediate (26)
+DRED:          217: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  28] [000001815BD40650 Default] GBuffer_Solid' [000001A06E644370] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 232 / 232
+DRED:        History:
+DRED:          224:  DrawIndexedInstanced (4)
+DRED:          225:  DrawIndexedInstanced (4)
+DRED:          226:  DrawIndexedInstanced (4)
+DRED:          227:  DrawIndexedInstanced (4)
+DRED:          228:  WriteBufferImmediate (26)
+DRED:          229:  ResourceBarrier (15)
+DRED:          230:  WriteBufferImmediate (26)
+DRED:          231:  WriteBufferImmediate (26)
+DRED:          232: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  29] [0000018144B3AD50 Default] GBuffer_Solid' [000001A041276560] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 282 / 282
+DRED:        History:
+DRED:          274:  DrawIndexedInstanced (4)
+DRED:          275:  DrawIndexedInstanced (4)
+DRED:          276:  DrawIndexedInstanced (4)
+DRED:          277:  DrawIndexedInstanced (4)
+DRED:          278:  WriteBufferImmediate (26)
+DRED:          279:  ResourceBarrier (15)
+DRED:          280:  WriteBufferImmediate (26)
+DRED:          281:  WriteBufferImmediate (26)
+DRED:          282: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  30] [0000018142E70C80 Default] GBuffer_Solid' [000001A032676F50] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 311 / 311
+DRED:        History:
+DRED:          303:  DrawIndexedInstanced (4)
+DRED:          304:  DrawIndexedInstanced (4)
+DRED:          305:  DrawIndexedInstanced (4)
+DRED:          306:  DrawIndexedInstanced (4)
+DRED:          307:  WriteBufferImmediate (26)
+DRED:          308:  ResourceBarrier (15)
+DRED:          309:  WriteBufferImmediate (26)
+DRED:          310:  WriteBufferImmediate (26)
+DRED:          311: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  31] [000001814CE53A70 Default] GBuffer_Solid' [000001A041275E50] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 311 / 311
+DRED:        History:
+DRED:          303:  DrawIndexedInstanced (4)
+DRED:          304:  DrawIndexedInstanced (4)
+DRED:          305:  DrawIndexedInstanced (4)
+DRED:          306:  DrawIndexedInstanced (4)
+DRED:          307:  DrawIndexedInstanced (4)
+DRED:          308:  WriteBufferImmediate (26)
+DRED:          309:  WriteBufferImmediate (26)
+DRED:          310:  WriteBufferImmediate (26)
+DRED:          311: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  32] [0000018139DEC290 Compute] AsyncWater' [000001A06A618E30] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478BB40]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *CopyBufferRegion (7)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  33] [0000018160C96010 Default] <<-merge [0000018142622D10 Default] GBuffer_Discard' [000001A0322F7A20] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  34] [0000018142622D10 Default] GBuffer_Discard' [0000019E78A93E20] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 271 / 271
+DRED:        History:
+DRED:          263:  DrawIndexedInstanced (4)
+DRED:          264:  DrawIndexedInstanced (4)
+DRED:          265:  DrawIndexedInstanced (4)
+DRED:          266:  DrawIndexedInstanced (4)
+DRED:          267:  WriteBufferImmediate (26)
+DRED:          268:  ResourceBarrier (15)
+DRED:          269:  WriteBufferImmediate (26)
+DRED:          270:  WriteBufferImmediate (26)
+DRED:          271: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  35] [00000181599023B0 Default] GBufferVelocity_Solid' [000001A06734D360] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 132 / 132
+DRED:        History:
+DRED:          124:  DrawIndexedInstanced (4)
+DRED:          125:  DrawIndexedInstanced (4)
+DRED:          126:  DrawIndexedInstanced (4)
+DRED:          127:  DrawIndexedInstanced (4)
+DRED:          128:  WriteBufferImmediate (26)
+DRED:          129:  ResourceBarrier (15)
+DRED:          130:  WriteBufferImmediate (26)
+DRED:          131:  WriteBufferImmediate (26)
+DRED:          132: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  36] [0000018157F0E900 Default] GBufferVelocity_Discard' [000001A06268B7D0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 124 / 124
+DRED:        History:
+DRED:          116:  DrawIndexedInstanced (4)
+DRED:          117:  DrawIndexedInstanced (4)
+DRED:          118:  DrawIndexedInstanced (4)
+DRED:          119:  DrawIndexedInstanced (4)
+DRED:          120:  WriteBufferImmediate (26)
+DRED:          121:  ResourceBarrier (15)
+DRED:          122:  WriteBufferImmediate (26)
+DRED:          123:  WriteBufferImmediate (26)
+DRED:          124: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  37] [0000018168D45B70 Default] DeferredDecals' [000001A06A637960] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 511 / 511
+DRED:        History:
+DRED:          503:  DrawIndexedInstanced (4)
+DRED:          504:  DrawIndexedInstanced (4)
+DRED:          505:  DrawIndexedInstanced (4)
+DRED:          506:  DrawIndexedInstanced (4)
+DRED:          507:  WriteBufferImmediate (26)
+DRED:          508:  ResourceBarrier (15)
+DRED:          509:  WriteBufferImmediate (26)
+DRED:          510:  WriteBufferImmediate (26)
+DRED:          511: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  38] [00000181427AA7D0 Default] Hair_Opaque' [000001A0322F8130] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 33 / 33
+DRED:        History:
+DRED:          25:  DrawIndexedInstanced (4)
+DRED:          26:  DrawIndexedInstanced (4)
+DRED:          27:  DrawIndexedInstanced (4)
+DRED:          28:  DrawIndexedInstanced (4)
+DRED:          29:  WriteBufferImmediate (26)
+DRED:          30:  ResourceBarrier (15)
+DRED:          31:  WriteBufferImmediate (26)
+DRED:          32:  WriteBufferImmediate (26)
+DRED:          33: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  39] [0000018139735DB0 Default] PostGBufferOverrides' [0000019E78A6B6F0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 47 / 47
+DRED:        History:
+DRED:          39:  ResourceBarrier (15)
+DRED:          40:  Dispatch (6)
+DRED:          41:  ResourceBarrier (15)
+DRED:          42:  Dispatch (6)
+DRED:          43:  WriteBufferImmediate (26)
+DRED:          44:  ResourceBarrier (15)
+DRED:          45:  WriteBufferImmediate (26)
+DRED:          46:  WriteBufferImmediate (26)
+DRED:          47: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  40] [00000181533BF0B0 Default] GenerateDynamicTextures' [000001A059128DA0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *CopyBufferRegion (7)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  41] [00000181533BA340 Default] RenderDistantShadows' [000001A06A618720] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 10 / 10
+DRED:        History:
+DRED:          2 :  ResourceBarrier (15)
+DRED:          3 :  DrawIndexedInstanced (4)
+DRED:          4 :  DrawIndexedInstanced (4)
+DRED:          5 :  DrawIndexedInstanced (4)
+DRED:          6 :  WriteBufferImmediate (26)
+DRED:          7 :  ResourceBarrier (15)
+DRED:          8 :  WriteBufferImmediate (26)
+DRED:          9 :  WriteBufferImmediate (26)
+DRED:          10: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  42] [000001812DCE78B0 Default] RenderCascade0' [0000019E1F189A60] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 150 / 150
+DRED:        History:
+DRED:          142:  ExecuteIndirect (5)
+DRED:          143:  ExecuteIndirect (5)
+DRED:          144:  ExecuteIndirect (5)
+DRED:          145:  ExecuteIndirect (5)
+DRED:          146:  WriteBufferImmediate (26)
+DRED:          147:  ResourceBarrier (15)
+DRED:          148:  WriteBufferImmediate (26)
+DRED:          149:  WriteBufferImmediate (26)
+DRED:          150: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  43] [000001814F5053D0 Default] RenderCascade1' [000001A041071410] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 266 / 266
+DRED:        History:
+DRED:          258:  ExecuteIndirect (5)
+DRED:          259:  ExecuteIndirect (5)
+DRED:          260:  ExecuteIndirect (5)
+DRED:          261:  ExecuteIndirect (5)
+DRED:          262:  WriteBufferImmediate (26)
+DRED:          263:  ResourceBarrier (15)
+DRED:          264:  WriteBufferImmediate (26)
+DRED:          265:  WriteBufferImmediate (26)
+DRED:          266: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  44] [0000018137D9D5A0 Default] RenderCascade2' [000001A058A2A670] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 877 / 877
+DRED:        History:
+DRED:          869:  DrawIndexedInstanced (4)
+DRED:          870:  DrawIndexedInstanced (4)
+DRED:          871:  DrawIndexedInstanced (4)
+DRED:          872:  DrawIndexedInstanced (4)
+DRED:          873:  WriteBufferImmediate (26)
+DRED:          874:  ResourceBarrier (15)
+DRED:          875:  WriteBufferImmediate (26)
+DRED:          876:  WriteBufferImmediate (26)
+DRED:          877: *WriteBufferImmediate (26)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  45] [000001814F5066F0 Default] RenderLocalShadows0' [000001A06A619C50] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 77 / 77
+DRED:        History:
+DRED:          69:  ResourceBarrier (15)
+DRED:          70:  Dispatch (6)
+DRED:          71:  ResourceBarrier (15)
+DRED:          72:  Dispatch (6)
+DRED:          73:  WriteBufferImmediate (26)
+DRED:          74:  ResourceBarrier (15)
+DRED:          75:  WriteBufferImmediate (26)
+DRED:          76:  WriteBufferImmediate (26)
+DRED:          77: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  46] [0000018134E12BE0 Default] RenderLocalShadows1' [0000019E1F187E20] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  47] [000001813D3890B0 Default] Lighting' [0000019E1F1868F0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 214 / 214
+DRED:        History:
+DRED:          206:  ResourceBarrier (15)
+DRED:          207:  CopyBufferRegion (7)
+DRED:          208:  ResourceBarrier (15)
+DRED:          209:  DrawInstanced (3)
+DRED:          210:  WriteBufferImmediate (26)
+DRED:          211:  ResourceBarrier (15)
+DRED:          212:  WriteBufferImmediate (26)
+DRED:          213:  WriteBufferImmediate (26)
+DRED:          214: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  48] [0000018130A91620 Default] DecoupledParticleLighting' [000001A06268B0C0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 38 / 38
+DRED:        History:
+DRED:          30:  WriteBufferImmediate (26)
+DRED:          31:  WriteBufferImmediate (26)
+DRED:          32:  ExecuteIndirect (5)
+DRED:          33:  WriteBufferImmediate (26)
+DRED:          34:  WriteBufferImmediate (26)
+DRED:          35:  ResourceBarrier (15)
+DRED:          36:  WriteBufferImmediate (26)
+DRED:          37:  WriteBufferImmediate (26)
+DRED:          38: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  49] [0000018158B91290 Default] Skin_Post_and_Forward_Opaque' [0000019E77E48F00] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 74 / 74
+DRED:        History:
+DRED:          66:  ResourceBarrier (15)
+DRED:          67:  DrawInstanced (3)
+DRED:          68:  ResourceBarrier (15)
+DRED:          69:  ResourceBarrier (15)
+DRED:          70:  WriteBufferImmediate (26)
+DRED:          71:  ResourceBarrier (15)
+DRED:          72:  WriteBufferImmediate (26)
+DRED:          73:  WriteBufferImmediate (26)
+DRED:          74: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  50] [000001815813DB20 Default] HologramDepth_and_Distortion' [000001A032551AD0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 122 / 122
+DRED:        History:
+DRED:          114:  ExecuteIndirect (5)
+DRED:          115:  ExecuteIndirect (5)
+DRED:          116:  ResourceBarrier (15)
+DRED:          117:  ExecuteIndirect (5)
+DRED:          118:  WriteBufferImmediate (26)
+DRED:          119:  ResourceBarrier (15)
+DRED:          120:  WriteBufferImmediate (26)
+DRED:          121:  WriteBufferImmediate (26)
+DRED:          122: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  51] [00000181596500F0 Default] Transparents' [000001A032112360] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 290 / 290
+DRED:        History:
+DRED:          282:  DrawIndexedInstanced (4)
+DRED:          283:  DrawIndexedInstanced (4)
+DRED:          284:  ResourceBarrier (15)
+DRED:          285:  CopyBufferRegion (7)
+DRED:          286:  WriteBufferImmediate (26)
+DRED:          287:  ResourceBarrier (15)
+DRED:          288:  WriteBufferImmediate (26)
+DRED:          289:  WriteBufferImmediate (26)
+DRED:          290: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  52] [0000018159650DB0 Default] Transparents_WeaponAndScreen' [000001A06A627930] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 5 / 5
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  53] [000001814F5033F0 Default] TXAA_Blurs' [000001A0322F8F50] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 31 / 31
+DRED:        History:
+DRED:          23:  ResourceBarrier (15)
+DRED:          24:  Dispatch (6)
+DRED:          25:  ResourceBarrier (15)
+DRED:          26:  CopyResource (9)
+DRED:          27:  WriteBufferImmediate (26)
+DRED:          28:  ResourceBarrier (15)
+DRED:          29:  WriteBufferImmediate (26)
+DRED:          30:  WriteBufferImmediate (26)
+DRED:          31: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  54] [000001814CAE1260 Default] DoF_MotionBlur' [0000019E6FAD2DF0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 8 / 8
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  Dispatch (6)
+DRED:          2:  ResourceBarrier (15)
+DRED:          3:  Dispatch (6)
+DRED:          4:  WriteBufferImmediate (26)
+DRED:          5:  ResourceBarrier (15)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7:  WriteBufferImmediate (26)
+DRED:          8: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  55] [0000018135F55CD0 Default] Forward_NoTXAA' [000001A06268D410] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 9 / 9
+DRED:        History:
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  ResourceBarrier (15)
+DRED:          4:  CopyTextureRegion (8)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  ResourceBarrier (15)
+DRED:          7:  WriteBufferImmediate (26)
+DRED:          8:  WriteBufferImmediate (26)
+DRED:          9: *ResourceBarrier (15)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  56] [0000018156F9E190 Default] PostFX' [000001A032467FE0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 135 / 135
+DRED:        History:
+DRED:          127:  ResourceBarrier (15)
+DRED:          128:  ResourceBarrier (15)
+DRED:          129:  ExecuteIndirect (5)
+DRED:          130:  ExecuteIndirect (5)
+DRED:          131:  WriteBufferImmediate (26)
+DRED:          132:  ResourceBarrier (15)
+DRED:          133:  WriteBufferImmediate (26)
+DRED:          134:  WriteBufferImmediate (26)
+DRED:          135: *Dispatch (6)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  57] [0000018152874220 Default] RenderFinal2D' [000001A06734EFA0] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 7 / 7
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  ResourceBarrier (15)
+DRED:          2:  DrawInstanced (3)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4:  ResourceBarrier (15)
+DRED:          5:  WriteBufferImmediate (26)
+DRED:          6:  WriteBufferImmediate (26)
+DRED:          7: *DrawIndexedInstanced (4)
+DRED:       Contexts 0
+DRED:     Command List '[    7206:  58] [000001814E0F3080 Default] EndRender' [000001A06A513A50] [Maybe Finished]:
+DRED:       Queue unnamed [0000019E2478B620]
+DRED:       Commands 4 / 4
+DRED:        History:
+DRED:          0:  WriteBufferImmediate (26)
+DRED:          1:  WriteBufferImmediate (26)
+DRED:          2:  WriteBufferImmediate (26)
+DRED:          3:  WriteBufferImmediate (26)
+DRED:          4: *DrawInstanced (3)
+DRED:       Contexts 0
+DRED:   Page Fault Allocation Output1:
+DRED:     PageFaultVA: 0x00000fb51d0000
+DRED:     Existing Allocations:
+DRED:     Freed Allocations:
+DRED:       Unnamed: Resource (34) [000001A0562985B0]
+DRED:       Unnamed: Resource (34) [000001A018F4F2E0]
+DRED:       Unnamed: Resource (34) [000001A0115BC6D0]
+DRED:       Unnamed: Resource (34) [000001A055ADE950]
+DRED: Finished DRED output
+Dumping DRED Complete
+
